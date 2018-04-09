@@ -1,0 +1,10 @@
+ClusterSize=30
+HammerSize=30,100
+
+BayerOutliers=10,10,50,50
+ROI(%)=0.08,0.08,0.92,0.92
+BitsUsage=10,8 
+DefectThreshold(%)=15.00
+Color=G
+LocalSearch=0
+BayerMode=0

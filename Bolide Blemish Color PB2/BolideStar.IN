@@ -1,0 +1,4 @@
+[Inputs]
+Headers=StarCluster(center),StarCluster(side),StarCluster(total),StarPixel(center),StarPixel(side),StarPixel(total),Star(R),Star(G),Star(B),Star(G1),Star(G2)
+LowLimit=0,0,0,0,0,0,0,0,0,0,0
+UpLimit=0,0,0,5428,5428,5428,30,30,30,30,30

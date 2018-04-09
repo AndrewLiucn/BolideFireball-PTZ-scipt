@@ -1,0 +1,2 @@
+COM1
+VOLT 5;CURR 1.5

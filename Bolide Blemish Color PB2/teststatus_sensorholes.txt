@@ -1,0 +1,14 @@
+[OUTPUTS]
+Status=0
+ReturnCode=0
+Message="Operation successful."
+Headers=holecluster(center),holecluster(side),holecluster(total),holepixel(center),holepixel(side),holepixel(total),hole(r),hole(g),hole(b),hole(g1),hole(g2)
+UpLimit=0,0,0,5428,5428,5428,250.00,250.00,250.00,250.00,250.00
+LowLimit=0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Values=0,0,0,3,3,6,41.57,0.00,36.94,63.39,63.77
+TestLimits="E:\Bolide Blemish Color PB1\testlimit_sensorholes.txt"
+TestSettings="E:\Bolide Blemish Color PB1\testconfig_sensorholes.txt"
+LogFile="E:\Bolide Blemish Color PB1\datalog_sensorholes.txt"
+BMPFileIn="C:\tstPlan\SSD\BayerFrameCOLD.bmp"
+
+calc time=1.69 sec

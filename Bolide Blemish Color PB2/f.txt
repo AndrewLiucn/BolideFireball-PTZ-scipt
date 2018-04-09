@@ -1,0 +1,3265 @@
+My Computer
+USB xHCI Compliant Host Controller
+
+
+DriverKey: {36fc9e60-c465-11cf-8056-444553540000}\0000
+VendorID: 8086
+DeviceID: A2AF
+SubSysID: 07A11028
+Revision: 00
+
+Debug Port Number:  0
+Bus.Device.Function (in decimal): 0.20.0
+
+Host Controller Power State Mappings
+System State		Host Controller		Root Hub	USB wakeup	Powered
+S0 (working)    	D0              	S? (unmapped)   		
+S1 (sleep)      	D? (unspecified)	D3              		
+S2 (sleep)      	D? (unspecified)	D3              		
+S3 (sleep)      	D3              	D2              Yes		Yes
+S4 (Hibernate)  	D3              	D2              Yes		Yes
+Last Sleep State	S? (unmapped)   
+RootHub
+
+
+Root Hub: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Hub Power:                    Self Power
+Number of Ports:              26
+Power switching:              Ganged
+Compound device:              No
+Over-current Protection:      Global
+High speed capable:           No
+High speed:                   Yes
+Multiple transaction translations capable:                 No
+Performs multiple transaction translations simultaneously: No
+Hub wakes when device is connected:                        No
+Hub is bus powered:           No
+Hub is root:                  Yes
+[Port1] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            17
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port2] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            23
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port3]  :  Generic USB Hub
+
+
+External Hub: USB#VID_046D&PID_0889#5&112bc8d3&0&3#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            22
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+Hub Power:                    Self Power
+Hub type:                     USB 2.0 Hub
+Number of Ports:              2
+Power switching:              Individual
+Compound device:              Yes
+Over-current Protection:      Individual
+
+High speed capable:           Yes
+High speed:                   Yes
+Multiple transaction translations capable:                 Yes
+Performs multiple transaction translations simultaneously: Yes
+Hub wakes when device is connected:                        No
+Hub is bus powered:           No
+Hub is root:                  No
+       ---===>Device Information<===---
+String Descriptor for index 2 not available while device is in low power state.
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: High (is SuperSpeed or higher capable)
+Device Address:                    0x17
+Open Pipes:                           1
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0210
+bDeviceClass:                      0x09  -> This is a HUB Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x02
+bMaxPacketSize0:                   0x40 = (64) Bytes
+idVendor:                        0x046D = Logitech Inc.
+idProduct:                       0x0889
+bcdDevice:                       0x0018
+iManufacturer:                     0x01
+String Descriptor for index 1 not available while device is in low power state.
+iProduct:                          0x02
+String Descriptor for index 2 not available while device is in low power state.
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0001 = 1 transactions per microframe, 0x01 max bytes
+bInterval:                         0x0C
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x0029  -> Validated
+bNumInterfaces:                    0x01
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xE0  -> Self Powered
+  -> Remote Wakeup
+MaxPower:                          0x32 = 100 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x09  -> HUB Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x01
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0001 = 1 transactions per microframe, 0x01 max bytes
+bInterval:                         0x0C
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x01
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x09  -> HUB Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x02
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0001 = 1 transactions per microframe, 0x01 max bytes
+bInterval:                         0x0C
+
+          ===>BOS Descriptor<===
+bLength:                           0x05
+bDescriptorType:                   0x0F
+wTotalLength:                      0x002A
+bNumDeviceCaps:                    0x03
+
+          ===>USB 2.0 Extension Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x02
+bmAttributes:                      0x00000006  -> Supports Link Power Management protocol
+
+          ===>SuperSpeed USB Device Capability Descriptor<===
+bLength:                           0x0A
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x03
+bmAttributes:                      0x00
+wSpeedsSupported:                  0x0E
+  -> Supports full-speed operation
+  -> Supports high-speed operation
+  -> Supports SuperSpeed operation
+bFunctionalitySupport:             0x01 -> lowest speed = full-speed
+bU1DevExitLat:                     0x08 -> less than 8 micro-seconds
+wU2DevExitLat:                     0x00BE -> less than 190 micro-seconds
+
+          ===>Container ID Capability Descriptor<===
+bLength:                           0x14
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x04
+bReserved:                         0x00
+Container ID:                      1035FD7B-31EE-EC48-AC4D-3E7FBFD2FCDD
+[Port1] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port2] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            2
+Companion Hub Symbolic Link Name: USB#VID_046D&PID_0888#5&112bc8d3&0&22#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port4] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            19
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port5]  :  USB Input Device
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            20
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+Device Power State:               PowerDeviceD0
+
+       ---===>Device Information<===---
+English product name: "Dell MS116 USB Optical Mouse"
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: Low
+Device Address:                    0x01
+Open Pipes:                           1
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0200
+bDeviceClass:                      0x00  -> This is an Interface Class Defined Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x00
+bMaxPacketSize0:                   0x08 = (8) Bytes
+idVendor:                        0x413C = Dell Inc.
+idProduct:                       0x301A
+bcdDevice:                       0x0100
+iManufacturer:                     0x01
+     English (United States)  "PixArt"
+iProduct:                          0x02
+     English (United States)  "Dell MS116 USB Optical Mouse"
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0004
+bInterval:                         0x0A
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x0022  -> Validated
+bNumInterfaces:                    0x01
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xA0  -> Bus Powered
+  -> Remote Wakeup
+MaxPower:                          0x32 = 100 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x03  -> HID Interface Class
+bInterfaceSubClass:                0x01
+bInterfaceProtocol:                0x02
+iInterface:                        0x00
+
+          ===>HID Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x21
+bcdHID:                          0x0111
+bCountryCode:                      0x00
+bNumDescriptors:                   0x01
+bDescriptorType:                   0x22 (Report Descriptor)
+wDescriptorLength:               0x002E
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0004
+bInterval:                         0x0A
+[Port6]  :  Generic USB Hub
+
+
+External Hub: USB#VID_04CC&PID_1520#5&112bc8d3&0&6#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+Hub Power:                    Self Power
+Hub type:                     USB 2.0 Hub
+Number of Ports:              4
+Power switching:              Ganged
+Compound device:              No
+No Over-current Protection (Bus Power Only)
+
+High speed capable:           Yes
+High speed:                   Yes
+Multiple transaction translations capable:                 No
+Performs multiple transaction translations simultaneously: No
+Hub wakes when device is connected:                        No
+Hub is bus powered:           No
+Hub is root:                  No
+       ---===>Device Information<===---
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: High (is not SuperSpeed or higher capable)
+Device Address:                    0x02
+Open Pipes:                           1
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0200
+bDeviceClass:                      0x09  -> This is a HUB Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x01
+bMaxPacketSize0:                   0x40 = (64) Bytes
+idVendor:                        0x04CC = ST-Ericsson
+idProduct:                       0x1520
+bcdDevice:                       0x0200
+iManufacturer:                     0x00
+iProduct:                          0x00
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0001 = 1 transactions per microframe, 0x01 max bytes
+bInterval:                         0x0C
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x0019  -> Validated
+bNumInterfaces:                    0x01
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xE0  -> Self Powered
+  -> Remote Wakeup
+MaxPower:                          0x00 =   0 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x09  -> HUB Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0001 = 1 transactions per microframe, 0x01 max bytes
+bInterval:                         0x0C
+[Port1]  :  USB Serial Device
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+Device Power State:               PowerDeviceD0
+
+       ---===>Device Information<===---
+English product name: "ProBoard"
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: Full (is not SuperSpeed or higher capable)
+Device Address:                    0x04
+Open Pipes:                           3
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0200
+bDeviceClass:                      0x02  -> This is a Communication Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x00
+bMaxPacketSize0:                   0x08 = (8) Bytes
+idVendor:                        0x04D8 = Microchip Technology Inc.
+idProduct:                       0x000A
+bcdDevice:                       0x0000
+iManufacturer:                     0x01
+     English (United States)  "LogitechTest Engineering"
+iProduct:                          0x02
+     English (United States)  "ProBoard"
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x82  -> Direction: IN - EndpointID: 2
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0008 = 0x08 bytes
+bInterval:                         0x02
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x03  -> Direction: OUT - EndpointID: 3
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x83  -> Direction: IN - EndpointID: 3
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x0043  -> Validated
+bNumInterfaces:                    0x02
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0x80  -> Bus Powered
+MaxPower:                          0x32 = 100 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x02  -> This is Communications (CDC Control) USB Device Interface Class
+bInterfaceSubClass:                0x02
+bInterfaceProtocol:                0x01
+iInterface:                        0x00
+  -> This is a Communications (CDC Control) USB Device Interface Class
+
+          ===>Descriptor Hex Dump<===
+bLength:                           0x05
+bDescriptorType:                   0x24
+05 24 00 10 01 
+  -> This is a Communications (CDC Control) USB Device Interface Class
+
+          ===>Descriptor Hex Dump<===
+bLength:                           0x04
+bDescriptorType:                   0x24
+04 24 02 02 
+  -> This is a Communications (CDC Control) USB Device Interface Class
+
+          ===>Descriptor Hex Dump<===
+bLength:                           0x05
+bDescriptorType:                   0x24
+05 24 06 00 01 
+  -> This is a Communications (CDC Control) USB Device Interface Class
+
+          ===>Descriptor Hex Dump<===
+bLength:                           0x05
+bDescriptorType:                   0x24
+05 24 01 00 01 
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x82  -> Direction: IN - EndpointID: 2
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0008 = 0x08 bytes
+bInterval:                         0x02
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x02
+bInterfaceClass:                   0x0A  -> This is a CDC Data USB Device Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x03  -> Direction: OUT - EndpointID: 3
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x83  -> Direction: IN - EndpointID: 3
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+[Port2] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port3] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port4] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port7]  :  USB Composite Device
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            21
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+Device Power State:               PowerDeviceD0
+
+       ---===>Device Information<===---
+English product name: "Dell KB216 Wired Keyboard"
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: Low
+Device Address:                    0x03
+Open Pipes:                           2
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0110
+bDeviceClass:                      0x00  -> This is an Interface Class Defined Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x00
+bMaxPacketSize0:                   0x08 = (8) Bytes
+idVendor:                        0x413C = Dell Inc.
+idProduct:                       0x2113
+bcdDevice:                       0x0108
+iManufacturer:                     0x00
+iProduct:                          0x02
+     English (United States)  "Dell KB216 Wired Keyboard"
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0008
+bInterval:                         0x18
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x82  -> Direction: IN - EndpointID: 2
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0008
+bInterval:                         0x30
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x003B  -> Validated
+bNumInterfaces:                    0x02
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xA0  -> Bus Powered
+  -> Remote Wakeup
+MaxPower:                          0x32 = 100 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x03  -> HID Interface Class
+bInterfaceSubClass:                0x01
+bInterfaceProtocol:                0x01
+iInterface:                        0x00
+
+          ===>HID Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x21
+bcdHID:                          0x0111
+bCountryCode:                      0x00
+bNumDescriptors:                   0x01
+bDescriptorType:                   0x22 (Report Descriptor)
+wDescriptorLength:               0x0041
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0008
+bInterval:                         0x18
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x03  -> HID Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>HID Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x21
+bcdHID:                          0x0111
+bCountryCode:                      0x00
+bNumDescriptors:                   0x01
+bDescriptorType:                   0x22 (Report Descriptor)
+wDescriptorLength:               0x006D
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x82  -> Direction: IN - EndpointID: 2
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0008
+bInterval:                         0x30
+[Port8] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port9] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port10] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port11] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port12] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port13] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port14] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port15] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port16] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port17] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            1
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port18] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            yes
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port19] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            4
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port20] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            5
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port21] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            7
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port22]  :  Generic SuperSpeed USB Hub
+
+
+External Hub: USB#VID_046D&PID_0888#5&112bc8d3&0&22#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            3
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+Hub Power:                    Self Power
+Hub type:                     USB 3.0 Hub
+Number of Ports:              2
+Power switching:              Individual
+Compound device:              Yes
+Over-current Protection:      Individual
+Packet Header Decode Latency: 0x4
+Delay:                        0x15e ns
+
+High speed capable:           No
+High speed:                   No
+Multiple transaction translations capable:                 No
+Performs multiple transaction translations simultaneously: No
+Hub wakes when device is connected:                        No
+Hub is bus powered:           No
+Hub is root:                  No
+       ---===>Device Information<===---
+English product name: "USB3.1 Hub"
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: SuperSpeed
+Device Address:                    0x12
+Open Pipes:                           1
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0310
+bDeviceClass:                      0x09  -> This is a HUB Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x03
+bMaxPacketSize0:                   0x09 = (9) Bytes
+idVendor:                        0x046D = Logitech Inc.
+idProduct:                       0x0888
+bcdDevice:                       0x0018
+iManufacturer:                     0x01
+     English (United States)  "GenesysLogic"
+iProduct:                          0x02
+     English (United States)  "USB3.1 Hub"
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x83  -> Direction: IN - EndpointID: 3
+bmAttributes:                      0x13  -> Interrupt Transfer Type, Usage Type = Notification
+wMaxPacketSize:                  0x0002
+bInterval:                         0x08
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x001F  -> Validated
+bNumInterfaces:                    0x01
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xE0  -> Self Powered
+  -> Remote Wakeup
+MaxPower:                          0x00 =   0 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x09  -> HUB Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x83  -> Direction: IN - EndpointID: 3
+bmAttributes:                      0x13  -> Interrupt Transfer Type, Usage Type = Notification
+wMaxPacketSize:                  0x0002
+bInterval:                         0x08
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x00
+bmAttributes:                      0x00
+wBytesPerInterval:                 0x0002
+
+          ===>BOS Descriptor<===
+bLength:                           0x05
+bDescriptorType:                   0x0F
+wTotalLength:                      0x002A
+bNumDeviceCaps:                    0x03
+
+          ===>USB 2.0 Extension Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x02
+bmAttributes:                      0x00000006  -> Supports Link Power Management protocol
+
+          ===>SuperSpeed USB Device Capability Descriptor<===
+bLength:                           0x0A
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x03
+bmAttributes:                      0x00
+wSpeedsSupported:                  0x0E
+  -> Supports full-speed operation
+  -> Supports high-speed operation
+  -> Supports SuperSpeed operation
+bFunctionalitySupport:             0x01 -> lowest speed = full-speed
+bU1DevExitLat:                     0x08 -> less than 8 micro-seconds
+wU2DevExitLat:                     0x00BE -> less than 190 micro-seconds
+
+          ===>Container ID Capability Descriptor<===
+bLength:                           0x14
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x04
+bReserved:                         0x00
+Container ID:                      1035FD7B-31EE-EC48-AC4D-3E7FBFD2FCDD
+[Port1]  :  USB Composite Device
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+Device Power State:               PowerDeviceD0
+
+       ---===>Device Information<===---
+English product name: "Logi Rally Camera"
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: SuperSpeed
+Device Address:                    0x15
+Open Pipes:                           2
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0310
+bDeviceClass:                      0xEF  -> This is a Multi-interface Function Code Device
+bDeviceSubClass:                   0x02  -> This is the Common Class Sub Class
+bDeviceProtocol:                   0x01  -> This is the Interface Association Descriptor protocol
+bMaxPacketSize0:                   0x09 = (9) Bytes
+idVendor:                        0x046D = Logitech Inc.
+idProduct:                       0x0881
+bcdDevice:                       0x0317
+iManufacturer:                     0x00
+iProduct:                          0x02
+     English (United States)  "Logi Rally Camera"
+iSerialNumber:                     0x03
+     English (United States)  "80AEE75B"
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x85  -> Direction: IN - EndpointID: 5
+bmAttributes:                      0x03  -> Interrupt Transfer Type, Usage Type = Periodic
+wMaxPacketSize:                  0x0040
+bInterval:                         0x08
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x87  -> Direction: IN - EndpointID: 7
+bmAttributes:                      0x03  -> Interrupt Transfer Type, Usage Type = Periodic
+wMaxPacketSize:                  0x0003
+bInterval:                         0x02
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x0ACE  -> Validated
+bNumInterfaces:                    0x03
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xC0  -> Self Powered
+MaxPower:                          0x70 = 896 mA
+
+          ===>IAD Descriptor<===
+bLength:                           0x08
+bDescriptorType:                   0x0B
+bFirstInterface:                   0x00
+bInterfaceCount:                   0x02
+bFunctionClass:                    0x0E  -> Video Interface Class
+bFunctionSubClass:                 0x03  -> Video Interface Collection
+bFunctionProtocol:                 0x00  -> PC_PROTOCOL_UNDEFINED protocol
+iFunction:                         0x00
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x01  -> Video Control Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Class-Specific Video Control Interface Header Descriptor<===
+bLength:                           0x0D
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x01
+bcdVDC:                          0x0100
+wTotalLength:                    0x00D7  -> Validated
+dwClockFreq:                 0x01C9C380 = (30000000) Hz
+bInCollection:                     0x01
+baInterfaceNr[1]:                  0x01
+USB Video Class device: spec version 1.0
+
+          ===>Video Control Input Terminal Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x02
+bTerminalID:                       0x01
+wTerminalType:                   0x0201 = (ITT_CAMERA)
+bAssocTerminal:                    0x00
+iTerminal:                         0x00
+===>Camera Input Terminal Data
+wObjectiveFocalLengthMin:        0x0000
+wObjectiveFocalLengthMax:        0x0000
+wOcularFocalLength:              0x0000
+bControlSize:                      0x03
+bmControls : 0x2E 0x12 0x02 
+     D00 = 0   no -  Scanning Mode
+     D01 = 1  yes -  Auto-Exposure Mode
+     D02 = 1  yes -  Auto-Exposure Priority
+     D03 = 1  yes -  Exposure Time (Absolute)
+     D04 = 0   no -  Exposure Time (Relative)
+     D05 = 1  yes -  Focus (Absolute)
+     D06 = 0   no -  Focus (Relative)
+     D07 = 0   no -  Iris (Absolute)
+     D08 = 0   no -  Iris (Relative)
+     D09 = 1  yes -  Zoom (Absolute)
+     D10 = 0   no -  Zoom (Relative)
+     D11 = 0   no -  PanTilt (Absolute)
+     D12 = 1  yes -  PanTilt (Relative)
+     D13 = 0   no -  Roll (Absolute)
+     D14 = 0   no -  Roll (Relative)
+     D15 = 0   no -  Reserved
+     D16 = 0   no -  Reserved
+     D17 = 1  yes -  Focus, Auto
+     D18 = 0   no -  Privacy
+     D19 = 0   no -  Focus, Simple
+     D20 = 0   no -  Window
+     D21 = 0   no -  Region of Interest
+     D22 = 0   no -  Reserved
+     D23 = 0   no -  Reserved
+
+          ===>Video Control Processing Unit Descriptor<===
+bLength:                           0x0B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bUnitID:                           0x03
+bSourceID:                         0x01
+wMaxMultiplier:                  0x4000
+bControlSize:                      0x02
+bmControls : 0x5B 0x17 
+     D00 = 1  yes -  Brightness
+     D01 = 1  yes -  Contrast
+     D02 = 0   no -  Hue
+     D03 = 1  yes -  Saturation
+     D04 = 1  yes -  Sharpness
+     D05 = 0   no -  Gamma
+     D06 = 1  yes -  White Balance Temperature
+     D07 = 0   no -  White Balance Component
+     D08 = 1  yes -  Backlight Compensation
+     D09 = 1  yes -  Gain
+     D10 = 1  yes -  Power Line Frequency
+     D11 = 0   no -  Hue, Auto
+     D12 = 1  yes -  White Balance Temperature, Auto
+     D13 = 0   no -  White Balance Component, Auto
+     D14 = 0   no -  Digital Multiplier
+     D15 = 0   no -  Digital Multiplier Limit
+iProcessing :                      0x00
+
+          ===>Video Control Extension Unit Descriptor<===
+bLength:                           0x1B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x06
+bUnitID:                           0x0E
+guidExtensionCode:                 {2C49D16A-32B8-4485-3EA8-643A152362F2}
+bNumControls:                      0x06
+bNrInPins:                         0x01
+===>List of Connected Units and Terminal ID's
+baSourceID[1]:                     0x03
+bControlSize:                      0x02
+bmControls : 0x3F 0x00 
+     D00 = 1  yes -  Vendor-Specific (Optional)
+     D01 = 1  yes -  Vendor-Specific (Optional)
+     D02 = 1  yes -  Vendor-Specific (Optional)
+     D03 = 1  yes -  Vendor-Specific (Optional)
+     D04 = 1  yes -  Vendor-Specific (Optional)
+     D05 = 1  yes -  Vendor-Specific (Optional)
+     D06 = 0   no -  Vendor-Specific (Optional)
+     D07 = 0   no -  Vendor-Specific (Optional)
+     D08 = 0   no -  Vendor-Specific (Optional)
+     D09 = 0   no -  Vendor-Specific (Optional)
+     D10 = 0   no -  Vendor-Specific (Optional)
+     D11 = 0   no -  Vendor-Specific (Optional)
+     D12 = 0   no -  Vendor-Specific (Optional)
+     D13 = 0   no -  Vendor-Specific (Optional)
+     D14 = 0   no -  Vendor-Specific (Optional)
+     D15 = 0   no -  Vendor-Specific (Optional)
+iExtension:                        0x00
+
+          ===>Video Control Extension Unit Descriptor<===
+bLength:                           0x1B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x06
+bUnitID:                           0x06
+guidExtensionCode:                 {23E49ED0-1178-4F31-AE52-D2FB8A8D3B48}
+bNumControls:                      0x0E
+bNrInPins:                         0x01
+===>List of Connected Units and Terminal ID's
+baSourceID[1]:                     0x03
+bControlSize:                      0x02
+bmControls : 0xFF 0x6F 
+     D00 = 1  yes -  Vendor-Specific (Optional)
+     D01 = 1  yes -  Vendor-Specific (Optional)
+     D02 = 1  yes -  Vendor-Specific (Optional)
+     D03 = 1  yes -  Vendor-Specific (Optional)
+     D04 = 1  yes -  Vendor-Specific (Optional)
+     D05 = 1  yes -  Vendor-Specific (Optional)
+     D06 = 1  yes -  Vendor-Specific (Optional)
+     D07 = 1  yes -  Vendor-Specific (Optional)
+     D08 = 1  yes -  Vendor-Specific (Optional)
+     D09 = 1  yes -  Vendor-Specific (Optional)
+     D10 = 1  yes -  Vendor-Specific (Optional)
+     D11 = 1  yes -  Vendor-Specific (Optional)
+     D12 = 0   no -  Vendor-Specific (Optional)
+     D13 = 1  yes -  Vendor-Specific (Optional)
+     D14 = 1  yes -  Vendor-Specific (Optional)
+     D15 = 0   no -  Vendor-Specific (Optional)
+iExtension:                        0x00
+
+          ===>Video Control Extension Unit Descriptor<===
+bLength:                           0x1B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x06
+bUnitID:                           0x08
+guidExtensionCode:                 {69678EE4-410F-40DB-A850-7420D7D8240E}
+bNumControls:                      0x08
+bNrInPins:                         0x01
+===>List of Connected Units and Terminal ID's
+baSourceID[1]:                     0x03
+bControlSize:                      0x02
+bmControls : 0x3F 0x03 
+     D00 = 1  yes -  Vendor-Specific (Optional)
+     D01 = 1  yes -  Vendor-Specific (Optional)
+     D02 = 1  yes -  Vendor-Specific (Optional)
+     D03 = 1  yes -  Vendor-Specific (Optional)
+     D04 = 1  yes -  Vendor-Specific (Optional)
+     D05 = 1  yes -  Vendor-Specific (Optional)
+     D06 = 0   no -  Vendor-Specific (Optional)
+     D07 = 0   no -  Vendor-Specific (Optional)
+     D08 = 1  yes -  Vendor-Specific (Optional)
+     D09 = 1  yes -  Vendor-Specific (Optional)
+     D10 = 0   no -  Vendor-Specific (Optional)
+     D11 = 0   no -  Vendor-Specific (Optional)
+     D12 = 0   no -  Vendor-Specific (Optional)
+     D13 = 0   no -  Vendor-Specific (Optional)
+     D14 = 0   no -  Vendor-Specific (Optional)
+     D15 = 0   no -  Vendor-Specific (Optional)
+iExtension:                        0x00
+
+          ===>Video Control Extension Unit Descriptor<===
+bLength:                           0x1C
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x06
+bUnitID:                           0x09
+guidExtensionCode:                 {1F5D4CA9-DE11-4487-840D-50933C8EC8D1}
+bNumControls:                      0x12
+bNrInPins:                         0x01
+===>List of Connected Units and Terminal ID's
+baSourceID[1]:                     0x03
+bControlSize:                      0x03
+bmControls : 0xFF 0xFF 0x03 
+     D00 = 1  yes -  Vendor-Specific (Optional)
+     D01 = 1  yes -  Vendor-Specific (Optional)
+     D02 = 1  yes -  Vendor-Specific (Optional)
+     D03 = 1  yes -  Vendor-Specific (Optional)
+     D04 = 1  yes -  Vendor-Specific (Optional)
+     D05 = 1  yes -  Vendor-Specific (Optional)
+     D06 = 1  yes -  Vendor-Specific (Optional)
+     D07 = 1  yes -  Vendor-Specific (Optional)
+     D08 = 1  yes -  Vendor-Specific (Optional)
+     D09 = 1  yes -  Vendor-Specific (Optional)
+     D10 = 1  yes -  Vendor-Specific (Optional)
+     D11 = 1  yes -  Vendor-Specific (Optional)
+     D12 = 1  yes -  Vendor-Specific (Optional)
+     D13 = 1  yes -  Vendor-Specific (Optional)
+     D14 = 1  yes -  Vendor-Specific (Optional)
+     D15 = 1  yes -  Vendor-Specific (Optional)
+     D16 = 1  yes -  Vendor-Specific (Optional)
+     D17 = 1  yes -  Vendor-Specific (Optional)
+     D18 = 0   no -  Vendor-Specific (Optional)
+     D19 = 0   no -  Vendor-Specific (Optional)
+     D20 = 0   no -  Vendor-Specific (Optional)
+     D21 = 0   no -  Vendor-Specific (Optional)
+     D22 = 0   no -  Vendor-Specific (Optional)
+     D23 = 0   no -  Vendor-Specific (Optional)
+iExtension:                        0x00
+
+          ===>Video Control Extension Unit Descriptor<===
+bLength:                           0x1B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x06
+bUnitID:                           0x0A
+guidExtensionCode:                 {49E40215-F434-47FE-B158-0E885023E51B}
+bNumControls:                      0x0C
+bNrInPins:                         0x01
+===>List of Connected Units and Terminal ID's
+baSourceID[1]:                     0x03
+bControlSize:                      0x02
+bmControls : 0xBA 0xEF 
+     D00 = 0   no -  Vendor-Specific (Optional)
+     D01 = 1  yes -  Vendor-Specific (Optional)
+     D02 = 0   no -  Vendor-Specific (Optional)
+     D03 = 1  yes -  Vendor-Specific (Optional)
+     D04 = 1  yes -  Vendor-Specific (Optional)
+     D05 = 1  yes -  Vendor-Specific (Optional)
+     D06 = 0   no -  Vendor-Specific (Optional)
+     D07 = 1  yes -  Vendor-Specific (Optional)
+     D08 = 1  yes -  Vendor-Specific (Optional)
+     D09 = 1  yes -  Vendor-Specific (Optional)
+     D10 = 1  yes -  Vendor-Specific (Optional)
+     D11 = 1  yes -  Vendor-Specific (Optional)
+     D12 = 0   no -  Vendor-Specific (Optional)
+     D13 = 1  yes -  Vendor-Specific (Optional)
+     D14 = 1  yes -  Vendor-Specific (Optional)
+     D15 = 1  yes -  Vendor-Specific (Optional)
+iExtension:                        0x00
+
+          ===>Video Control Extension Unit Descriptor<===
+bLength:                           0x1C
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x06
+bUnitID:                           0x0B
+guidExtensionCode:                 {FFE52D21-8030-4E2C-82D9-F587D00540BD}
+bNumControls:                      0x03
+bNrInPins:                         0x01
+===>List of Connected Units and Terminal ID's
+baSourceID[1]:                     0x03
+bControlSize:                      0x03
+bmControls : 0x03 0x41 0x0F 
+     D00 = 1  yes -  Vendor-Specific (Optional)
+     D01 = 1  yes -  Vendor-Specific (Optional)
+     D02 = 0   no -  Vendor-Specific (Optional)
+     D03 = 0   no -  Vendor-Specific (Optional)
+     D04 = 0   no -  Vendor-Specific (Optional)
+     D05 = 0   no -  Vendor-Specific (Optional)
+     D06 = 0   no -  Vendor-Specific (Optional)
+     D07 = 0   no -  Vendor-Specific (Optional)
+     D08 = 1  yes -  Vendor-Specific (Optional)
+     D09 = 0   no -  Vendor-Specific (Optional)
+     D10 = 0   no -  Vendor-Specific (Optional)
+     D11 = 0   no -  Vendor-Specific (Optional)
+     D12 = 0   no -  Vendor-Specific (Optional)
+     D13 = 0   no -  Vendor-Specific (Optional)
+     D14 = 1  yes -  Vendor-Specific (Optional)
+     D15 = 0   no -  Vendor-Specific (Optional)
+     D16 = 1  yes -  Vendor-Specific (Optional)
+     D17 = 1  yes -  Vendor-Specific (Optional)
+     D18 = 1  yes -  Vendor-Specific (Optional)
+     D19 = 1  yes -  Vendor-Specific (Optional)
+     D20 = 0   no -  Vendor-Specific (Optional)
+     D21 = 0   no -  Vendor-Specific (Optional)
+     D22 = 0   no -  Vendor-Specific (Optional)
+     D23 = 0   no -  Vendor-Specific (Optional)
+iExtension:                        0x00
+
+          ===>Video Control Output Terminal Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x03
+bTerminalID:                       0x04
+wTerminalType:                   0x0101 = (TT_STREAMING)
+bAssocTerminal:                    0x00
+bSourceID:                         0x03
+iTerminal:                         0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x85  -> Direction: IN - EndpointID: 5
+bmAttributes:                      0x03  -> Interrupt Transfer Type, Usage Type = Periodic
+wMaxPacketSize:                  0x0040
+bInterval:                         0x08
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x00
+bmAttributes:                      0x00
+wBytesPerInterval:                 0x0040
+
+          ===>Class-specific VC Interrupt Endpoint Descriptor<===
+bLength:                           0x05 
+bDescriptorType:                   0x25
+bDescriptorSubtype:                0x03
+wMaxTransferSize:                0x0040 = (64) Bytes
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x00
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Video Class-Specific VS Video Input Header Descriptor<===
+bLength:                           0x10
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x01
+bNumFormats:                       0x03
+wTotalLength:                    0x086F  -> Validated
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmInfo:                            0x00  -> Dynamic Format Change not Supported
+bTerminalLink:                     0x04
+bStillCaptureMethod:               0x00  -> No Still Capture
+bTriggerSupport:                   0x00  -> No Hardware Triggering Support
+bTriggerUsage:                     0x00
+bControlSize:                      0x01
+Video Payload Format 1             0x00 
+     D00 = 0   no -  Key Frame Rate
+     D01 = 0   no -  P Frame Rate
+     D02 = 0   no -  Compression Quality
+     D03 = 0   no -  Compression Window Size
+     D04 = 0   no -  Generate Key Frame
+     D05 = 0   no -  Update Frame Segment
+     D06 = 0   no -  Reserved
+     D07 = 0   no -  Reserved
+Video Payload Format 2             0x00 
+     D00 = 0   no -  Key Frame Rate
+     D01 = 0   no -  P Frame Rate
+     D02 = 0   no -  Compression Quality
+     D03 = 0   no -  Compression Window Size
+     D04 = 0   no -  Generate Key Frame
+     D05 = 0   no -  Update Frame Segment
+     D06 = 0   no -  Reserved
+     D07 = 0   no -  Reserved
+Video Payload Format 3             0x00 
+     D00 = 0   no -  Key Frame Rate
+     D01 = 0   no -  P Frame Rate
+     D02 = 0   no -  Compression Quality
+     D03 = 0   no -  Compression Window Size
+     D04 = 0   no -  Generate Key Frame
+     D05 = 0   no -  Update Frame Segment
+     D06 = 0   no -  Reserved
+     D07 = 0   no -  Reserved
+
+          ===>Video Streaming Uncompressed Format Type Descriptor<===
+bLength:                           0x1B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x04
+bFormatIndex:                      0x01
+bNumFrameDescriptors:              0x10
+guidFormat:                        {32595559-0000-0010-8000-00AA00389B71} = YUY2 Format
+bBitsPerPixel:                     0x10
+bDefaultFrameIndex:                0x01
+bAspectRatioX:                     0x00
+bAspectRatioY:                     0x00
+bmInterlaceFlags:                  0x00
+     D0    = 0x00 Interlaced stream or variable: No
+     D1    = 0x00 Fields per frame: 2 fields
+     D2    = 0x00 Field 1 first: No
+     D3    = 0x00 Reserved
+     D4..5 = 0x00 Field patterns  -> Field 1 only
+     D6..7 = 0x00 Display Mode  -> Bob only
+bCopyProtect:                      0x00  -> Duplication Unrestricted
+*!*ERROR:  Found 20 frame descriptors (should be 16)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+          --->This is the Default (optimum) Frame index
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x01
+bmCapabilities:                    0x00
+wWidth:                          0x0280 = 640
+wHeight:                         0x01E0 = 480
+dwMinBitRate:                0x01770000
+dwMaxBitRate:                0x08CA0000
+dwMaxVideoFrameBufferSize:   0x00096000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x02
+bmCapabilities:                    0x00
+wWidth:                          0x00A0 = 160
+wHeight:                         0x0078 = 120
+dwMinBitRate:                0x00177000
+dwMaxBitRate:                0x008CA000
+dwMaxVideoFrameBufferSize:   0x00009600
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x03
+bmCapabilities:                    0x00
+wWidth:                          0x00B0 = 176
+wHeight:                         0x0090 = 144
+dwMinBitRate:                0x001EF000
+dwMaxBitRate:                0x00B9A000
+dwMaxVideoFrameBufferSize:   0x0000C600
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x04
+bmCapabilities:                    0x00
+wWidth:                          0x0140 = 320
+wHeight:                         0x00B4 = 180
+dwMinBitRate:                0x00465000
+dwMaxBitRate:                0x01A5E000
+dwMaxVideoFrameBufferSize:   0x0001C200
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x05
+bmCapabilities:                    0x00
+wWidth:                          0x0140 = 320
+wHeight:                         0x00F0 = 240
+dwMinBitRate:                0x005DC000
+dwMaxBitRate:                0x02328000
+dwMaxVideoFrameBufferSize:   0x00025800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x06
+bmCapabilities:                    0x00
+wWidth:                          0x0160 = 352
+wHeight:                         0x0120 = 288
+dwMinBitRate:                0x007BC000
+dwMaxBitRate:                0x02E68000
+dwMaxVideoFrameBufferSize:   0x00031800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x07
+bmCapabilities:                    0x00
+wWidth:                          0x01E0 = 480
+wHeight:                         0x010E = 270
+dwMinBitRate:                0x009E3400
+dwMaxBitRate:                0x03B53800
+dwMaxVideoFrameBufferSize:   0x0003F480
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x08
+bmCapabilities:                    0x00
+wWidth:                          0x0280 = 640
+wHeight:                         0x0168 = 360
+dwMinBitRate:                0x01194000
+dwMaxBitRate:                0x06978000
+dwMaxVideoFrameBufferSize:   0x00070800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x09
+bmCapabilities:                    0x00
+wWidth:                          0x0320 = 800
+wHeight:                         0x01C0 = 448
+dwMinBitRate:                0x01B58000
+dwMaxBitRate:                0x0A410000
+dwMaxVideoFrameBufferSize:   0x000AF000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x0A
+bmCapabilities:                    0x00
+wWidth:                          0x0320 = 800
+wHeight:                         0x0258 = 600
+dwMinBitRate:                0x0249F000
+dwMaxBitRate:                0x0DBBA000
+dwMaxVideoFrameBufferSize:   0x000EA600
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x0B
+bmCapabilities:                    0x00
+wWidth:                          0x0350 = 848
+wHeight:                         0x01E0 = 480
+dwMinBitRate:                0x01F0E000
+dwMaxBitRate:                0x0BA54000
+dwMaxVideoFrameBufferSize:   0x000C6C00
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x0C
+bmCapabilities:                    0x00
+wWidth:                          0x03C0 = 960
+wHeight:                         0x021C = 540
+dwMinBitRate:                0x0278D000
+dwMaxBitRate:                0x0ED4E000
+dwMaxVideoFrameBufferSize:   0x000FD200
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x0D
+bmCapabilities:                    0x00
+wWidth:                          0x0400 = 1024
+wHeight:                         0x0240 = 576
+dwMinBitRate:                0x02D00000
+dwMaxBitRate:                0x10E00000
+dwMaxVideoFrameBufferSize:   0x00120000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x0E
+bmCapabilities:                    0x00
+wWidth:                          0x0500 = 1280
+wHeight:                         0x02D0 = 720
+dwMinBitRate:                0x04650000
+dwMaxBitRate:                0x1A5E0000
+dwMaxVideoFrameBufferSize:   0x001C2000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x0F
+bmCapabilities:                    0x00
+wWidth:                          0x0640 = 1600
+wHeight:                         0x0380 = 896
+dwMinBitRate:                0x06D60000
+dwMaxBitRate:                0x29040000
+dwMaxVideoFrameBufferSize:   0x002BC000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x10
+bmCapabilities:                    0x00
+wWidth:                          0x0780 = 1920
+wHeight:                         0x0438 = 1080
+dwMinBitRate:                0x09E34000
+dwMaxBitRate:                0x3B538000
+dwMaxVideoFrameBufferSize:   0x003F4800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Color Matching Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x0D
+bColorPrimaries:                   0x01
+bTransferCharacteristics:          0x01
+bMatrixCoefficients:               0x04
+
+          ===>Video Streaming MJPEG Format Type Descriptor<===
+bLength:                           0x0B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x06
+bFormatIndex:                      0x02
+bNumFrameDescriptors:              0x12
+bmFlags:                           0x01  -> Sample Size is Fixed
+bDefaultFrameIndex:                0x01
+bAspectRatioX:                     0x00
+bAspectRatioY:                     0x00
+bmInterlaceFlags:                  0x00
+     D00   = 0  non-Interlaced stream or variable
+     D01   = 0  2 fields per frame
+     D02   = 0  Field 1 not first
+     D03   = 0  Reserved
+     D4..5 = 0  Field patterns  -> Field 1 only
+     D6..7 = 0  Display Mode  -> Bob only
+bCopyProtect:                      0x00  -> Duplication Unrestricted
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+          --->This is the Default (optimum) Frame index
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x01
+bmCapabilities:                    0x00
+wWidth:                          0x0280 = 640
+wHeight:                         0x01E0 = 480
+dwMinBitRate:                0x01770000
+dwMaxBitRate:                0x08CA0000
+dwMaxVideoFrameBufferSize:   0x00096000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x02
+bmCapabilities:                    0x00
+wWidth:                          0x00A0 = 160
+wHeight:                         0x0078 = 120
+dwMinBitRate:                0x00177000
+dwMaxBitRate:                0x008CA000
+dwMaxVideoFrameBufferSize:   0x00009600
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x03
+bmCapabilities:                    0x00
+wWidth:                          0x00B0 = 176
+wHeight:                         0x0090 = 144
+dwMinBitRate:                0x001EF000
+dwMaxBitRate:                0x00B9A000
+dwMaxVideoFrameBufferSize:   0x0000C600
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x04
+bmCapabilities:                    0x00
+wWidth:                          0x0140 = 320
+wHeight:                         0x00B4 = 180
+dwMinBitRate:                0x00465000
+dwMaxBitRate:                0x01A5E000
+dwMaxVideoFrameBufferSize:   0x0001C200
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x05
+bmCapabilities:                    0x00
+wWidth:                          0x0140 = 320
+wHeight:                         0x00F0 = 240
+dwMinBitRate:                0x005DC000
+dwMaxBitRate:                0x02328000
+dwMaxVideoFrameBufferSize:   0x00025800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x06
+bmCapabilities:                    0x00
+wWidth:                          0x0160 = 352
+wHeight:                         0x0120 = 288
+dwMinBitRate:                0x007BC000
+dwMaxBitRate:                0x02E68000
+dwMaxVideoFrameBufferSize:   0x00031800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x07
+bmCapabilities:                    0x00
+wWidth:                          0x01E0 = 480
+wHeight:                         0x010E = 270
+dwMinBitRate:                0x009E3400
+dwMaxBitRate:                0x03B53800
+dwMaxVideoFrameBufferSize:   0x0003F480
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x08
+bmCapabilities:                    0x00
+wWidth:                          0x0280 = 640
+wHeight:                         0x0168 = 360
+dwMinBitRate:                0x01194000
+dwMaxBitRate:                0x06978000
+dwMaxVideoFrameBufferSize:   0x00070800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x09
+bmCapabilities:                    0x00
+wWidth:                          0x0320 = 800
+wHeight:                         0x01C0 = 448
+dwMinBitRate:                0x01B58000
+dwMaxBitRate:                0x0A410000
+dwMaxVideoFrameBufferSize:   0x000AF000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x0A
+bmCapabilities:                    0x00
+wWidth:                          0x0320 = 800
+wHeight:                         0x0258 = 600
+dwMinBitRate:                0x0249F000
+dwMaxBitRate:                0x0DBBA000
+dwMaxVideoFrameBufferSize:   0x000EA600
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x0B
+bmCapabilities:                    0x00
+wWidth:                          0x0350 = 848
+wHeight:                         0x01E0 = 480
+dwMinBitRate:                0x01F0E000
+dwMaxBitRate:                0x0BA54000
+dwMaxVideoFrameBufferSize:   0x000C6C00
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x0C
+bmCapabilities:                    0x00
+wWidth:                          0x03C0 = 960
+wHeight:                         0x021C = 540
+dwMinBitRate:                0x0278D000
+dwMaxBitRate:                0x0ED4E000
+dwMaxVideoFrameBufferSize:   0x000FD200
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x0D
+bmCapabilities:                    0x00
+wWidth:                          0x0400 = 1024
+wHeight:                         0x0240 = 576
+dwMinBitRate:                0x02D00000
+dwMaxBitRate:                0x10E00000
+dwMaxVideoFrameBufferSize:   0x00120000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x3A
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x0E
+bmCapabilities:                    0x00
+wWidth:                          0x0500 = 1280
+wHeight:                         0x02D0 = 720
+dwMinBitRate:                0x04650000
+dwMaxBitRate:                0x34BC0000
+dwMaxVideoFrameBufferSize:   0x001C2000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x08
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00028B0A = 16.666600 mSec (60.00 Hz)
+dwFrameInterval[2]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[3]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[4]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[5]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[6]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[7]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[8]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x0F
+bmCapabilities:                    0x00
+wWidth:                          0x0640 = 1600
+wHeight:                         0x0380 = 896
+dwMinBitRate:                0x06D60000
+dwMaxBitRate:                0x29040000
+dwMaxVideoFrameBufferSize:   0x002BC000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x3A
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x10
+bmCapabilities:                    0x00
+wWidth:                          0x0780 = 1920
+wHeight:                         0x0438 = 1080
+dwMinBitRate:                0x09E34000
+dwMaxBitRate:                0x76A70000
+dwMaxVideoFrameBufferSize:   0x003F4800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x08
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00028B0A = 16.666600 mSec (60.00 Hz)
+dwFrameInterval[2]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[3]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[4]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[5]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[6]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[7]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[8]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x11
+bmCapabilities:                    0x00
+wWidth:                          0x0A00 = 2560
+wHeight:                         0x05A0 = 1440
+dwMinBitRate:                0x11940000
+dwMaxBitRate:                0x69780000
+dwMaxVideoFrameBufferSize:   0x00708000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming MJPEG Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x07
+bFrameIndex:                       0x12
+bmCapabilities:                    0x00
+wWidth:                          0x0F00 = 3840
+wHeight:                         0x0870 = 2160
+dwMinBitRate:                0x278D0000
+dwMaxBitRate:                0xED4E0000
+dwMaxVideoFrameBufferSize:   0x00FD2000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame TypeData
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Color Matching Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x0D
+bColorPrimaries:                   0x01
+bTransferCharacteristics:          0x01
+bMatrixCoefficients:               0x04
+
+          ===>Video Streaming Uncompressed Format Type Descriptor<===
+bLength:                           0x1B
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x04
+bFormatIndex:                      0x03
+bNumFrameDescriptors:              0x04
+guidFormat:                        {3231564E-0000-0010-8000-00AA00389B71} = NV12 Format
+bBitsPerPixel:                     0x0C
+bDefaultFrameIndex:                0x01
+bAspectRatioX:                     0x00
+bAspectRatioY:                     0x00
+bmInterlaceFlags:                  0x00
+     D0    = 0x00 Interlaced stream or variable: No
+     D1    = 0x00 Fields per frame: 2 fields
+     D2    = 0x00 Field 1 first: No
+     D3    = 0x00 Reserved
+     D4..5 = 0x00 Field patterns  -> Field 1 only
+     D6..7 = 0x00 Display Mode  -> Bob only
+bCopyProtect:                      0x00  -> Duplication Unrestricted
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+          --->This is the Default (optimum) Frame index
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x01
+bmCapabilities:                    0x00
+wWidth:                          0x0280 = 640
+wHeight:                         0x01E0 = 480
+dwMinBitRate:                0x01770000
+dwMaxBitRate:                0x08CA0000
+dwMaxVideoFrameBufferSize:   0x00096000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x02
+bmCapabilities:                    0x00
+wWidth:                          0x0280 = 640
+wHeight:                         0x0168 = 360
+dwMinBitRate:                0x01194000
+dwMaxBitRate:                0x06978000
+dwMaxVideoFrameBufferSize:   0x00070800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x03
+bmCapabilities:                    0x00
+wWidth:                          0x0500 = 1280
+wHeight:                         0x02D0 = 720
+dwMinBitRate:                0x04650000
+dwMaxBitRate:                0x1A5E0000
+dwMaxVideoFrameBufferSize:   0x001C2000
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Video Streaming Uncompressed Frame Type Descriptor<===
+bLength:                           0x36
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x05
+bFrameIndex:                       0x04
+bmCapabilities:                    0x00
+wWidth:                          0x0780 = 1920
+wHeight:                         0x0438 = 1080
+dwMinBitRate:                0x09E34000
+dwMaxBitRate:                0x3B538000
+dwMaxVideoFrameBufferSize:   0x003F4800
+dwDefaultFrameInterval:      0x00051615 = 33.333300 mSec (30.00 Hz)
+bFrameIntervalType:                0x07
+===>Additional Discrete Frame Type Data
+dwFrameInterval[1]:          0x00051615 = 33.333300 mSec (30.00 Hz)
+dwFrameInterval[2]:          0x00065B9A = 41.666600 mSec (24.00 Hz)
+dwFrameInterval[3]:          0x0007A120 = 50.000000 mSec (20.00 Hz)
+dwFrameInterval[4]:          0x000A2C2A = 66.666600 mSec (15.00 Hz)
+dwFrameInterval[5]:          0x000F4240 = 100.000000 mSec (10.00 Hz)
+dwFrameInterval[6]:          0x00145855 = 133.333300 mSec (7.50 Hz)
+dwFrameInterval[7]:          0x001E8480 = 200.000000 mSec (5.00 Hz)
+
+          ===>Color Matching Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x24
+bDescriptorSubtype:                0x0D
+bColorPrimaries:                   0x01
+bTransferCharacteristics:          0x01
+bMatrixCoefficients:               0x04
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x01
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0180
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x00
+bmAttributes:                      0x00 = 1 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x0180
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x02
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0280
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x00
+bmAttributes:                      0x00 = 1 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x0280
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x03
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x03B0
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x00
+bmAttributes:                      0x00 = 1 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x03B0
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x04
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x00
+bmAttributes:                      0x00 = 1 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x0400
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x05
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x01
+bmAttributes:                      0x00 = 2 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x0800
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x06
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x02
+bmAttributes:                      0x00 = 3 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x0C00
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x07
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x02
+bmAttributes:                      0x01 = 6 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x1800
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x08
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x02
+bmAttributes:                      0x02 = 9 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x2400
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x09
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x03
+bmAttributes:                      0x02 = 12 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x3000
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x0A
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x04
+bmAttributes:                      0x02 = 15 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x3C00
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x0B
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x05
+bmAttributes:                      0x02 = 18 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x4800
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x0C
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x06
+bmAttributes:                      0x02 = 21 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x5400
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x0D
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x07
+bmAttributes:                      0x02 = 24 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x6000
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x0E
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x0E  -> Video Interface Class
+bInterfaceSubClass:                0x02  -> Video Streaming Interface SubClass
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x05  -> Isochronous Transfer Type, Synchronization Type = Asynchronous, Usage Type = Data Endpoint
+wMaxPacketSize:                  0x0400
+bInterval:                         0x01
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x09
+bmAttributes:                      0x02 = 30 maximum number of packets within a service interval
+
+wBytesPerInterval:                 0x7800
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x02
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x03  -> HID Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>HID Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x21
+bcdHID:                          0x0111
+bCountryCode:                      0x00
+bNumDescriptors:                   0x01
+bDescriptorType:                   0x22 (Report Descriptor)
+wDescriptorLength:               0x0310
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x87  -> Direction: IN - EndpointID: 7
+bmAttributes:                      0x03  -> Interrupt Transfer Type, Usage Type = Periodic
+wMaxPacketSize:                  0x0003
+bInterval:                         0x02
+
+ ===>SuperSpeed Endpoint Companion Descriptor<===
+bLength:                           0x06
+bDescriptorType:                   0x30
+bMaxBurst:                         0x00
+bmAttributes:                      0x00
+wBytesPerInterval:                 0x0003
+
+          ===>Additional Error Checking<===
+PASS: number of uncompressed-frame frame descriptors (20) == number of frame descriptors (20) specified in uncompressed format descriptor(s)
+PASS: number of MJPEG frame descriptors (18) == number of frame descriptors (18) specified in MJPEG format descriptor(s)
+
+          ===>BOS Descriptor<===
+bLength:                           0x05
+bDescriptorType:                   0x0F
+wTotalLength:                      0x0016
+bNumDeviceCaps:                    0x02
+
+          ===>USB 2.0 Extension Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x02
+bmAttributes:                      0x00000002  -> Supports Link Power Management protocol
+
+          ===>SuperSpeed USB Device Capability Descriptor<===
+bLength:                           0x0A
+bDescriptorType:                   0x10
+bDevCapabilityType:                0x03
+bmAttributes:                      0x00
+wSpeedsSupported:                  0x0E
+  -> Supports full-speed operation
+  -> Supports high-speed operation
+  -> Supports SuperSpeed operation
+bFunctionalitySupport:             0x02 -> lowest speed = high-speed
+bU1DevExitLat:                     0x0A -> less than 10 micro-seconds
+wU2DevExitLat:                     0x0100 -> less than 256 micro-seconds
+[Port2] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            2
+Companion Hub Symbolic Link Name: USB#VID_046D&PID_0889#5&112bc8d3&0&3#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port23] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            2
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port24] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            2
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#4&2a872284&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port25] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            yes
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port26] 
+
+
+Is Port User Connectable:         no
+Is Port Debug Capable:            yes
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+USB xHCI Compliant Host Controller
+
+
+DriverKey: {36fc9e60-c465-11cf-8056-444553540000}\0001
+VendorID: 1B21
+DeviceID: 1242
+SubSysID: 20181FD4
+Revision: 00
+
+Debug Port Number:  0
+Bus.Device.Function (in decimal): 3.0.0
+
+Host Controller Power State Mappings
+System State		Host Controller		Root Hub	USB wakeup	Powered
+S0 (working)    	D0              	S? (unmapped)   		
+S1 (sleep)      	D? (unspecified)	D3              		
+S2 (sleep)      	D? (unspecified)	D3              		
+S3 (sleep)      	D3              	D2              Yes		Yes
+S4 (Hibernate)  	D3              	D2              Yes		Yes
+Last Sleep State	S? (unmapped)   
+RootHub
+
+
+Root Hub: USB#ROOT_HUB30#5&5a8e548&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Hub Power:                    Self Power
+Number of Ports:              4
+Power switching:              Ganged
+Compound device:              No
+Over-current Protection:      Global
+High speed capable:           No
+High speed:                   Yes
+Multiple transaction translations capable:                 No
+Performs multiple transaction translations simultaneously: No
+Hub wakes when device is connected:                        No
+Hub is bus powered:           No
+Hub is root:                  Yes
+[Port1] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            3
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#5&5a8e548&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port2] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            yes
+Companion Port Number:            4
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#5&5a8e548&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         no
+ USB 2.0:                         no
+ USB 3.0:                         yes
+
+ConnectionStatus:      NoDeviceConnected
+[Port3] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            1
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#5&5a8e548&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port4]  :  Generic USB Hub
+
+
+External Hub: USB#VID_04B4&PID_6570#6&11cf6c3f&0&4#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            2
+Companion Hub Symbolic Link Name: USB#ROOT_HUB30#5&5a8e548&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+Hub Power:                    Self Power
+Hub type:                     USB 2.0 Hub
+Number of Ports:              4
+Power switching:              Individual
+Compound device:              No
+Over-current Protection:      Individual
+
+High speed capable:           Yes
+High speed:                   Yes
+Multiple transaction translations capable:                 No
+Performs multiple transaction translations simultaneously: No
+Hub wakes when device is connected:                        No
+Hub is bus powered:           No
+Hub is root:                  No
+       ---===>Device Information<===---
+String Descriptor for index 1 not available while device is in low power state.
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: High (is not SuperSpeed or higher capable)
+Device Address:                    0x01
+Open Pipes:                           1
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0200
+bDeviceClass:                      0x09  -> This is a HUB Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x01
+bMaxPacketSize0:                   0x40 = (64) Bytes
+idVendor:                        0x04B4 = Cypress Semiconductor
+idProduct:                       0x6570
+bcdDevice:                       0x3299
+iManufacturer:                     0x00
+iProduct:                          0x01
+String Descriptor for index 1 not available while device is in low power state.
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0001 = 1 transactions per microframe, 0x01 max bytes
+bInterval:                         0x0C
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x0019  -> Validated
+bNumInterfaces:                    0x01
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xE0  -> Self Powered
+  -> Remote Wakeup
+MaxPower:                          0x32 = 100 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x01
+bInterfaceClass:                   0x09  -> HUB Interface Class
+bInterfaceSubClass:                0x00
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x81  -> Direction: IN - EndpointID: 1
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0001 = 1 transactions per microframe, 0x01 max bytes
+bInterval:                         0x0C
+[Port1] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port2]  :  USB Composite Device
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+Device Power State:               PowerDeviceD2
+
+       ---===>Device Information<===---
+String Descriptor for index 2 not available while device is in low power state.
+
+ConnectionStatus:                  
+Current Config Value:              0x01  -> Device Bus Speed: Full (is not SuperSpeed or higher capable)
+Device Address:                    0x02
+Open Pipes:                           3
+
+          ===>Device Descriptor<===
+bLength:                           0x12
+bDescriptorType:                   0x01
+bcdUSB:                          0x0200
+bDeviceClass:                      0x00  -> This is an Interface Class Defined Device
+bDeviceSubClass:                   0x00
+bDeviceProtocol:                   0x00
+bMaxPacketSize0:                   0x08 = (8) Bytes
+idVendor:                        0x04B4 = Cypress Semiconductor
+idProduct:                       0x0004
+bcdDevice:                       0x0000
+iManufacturer:                     0x01
+String Descriptor for index 1 not available while device is in low power state.
+iProduct:                          0x02
+String Descriptor for index 2 not available while device is in low power state.
+iSerialNumber:                     0x00
+bNumConfigurations:                0x01
+
+          ---===>Open Pipes<===---
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x01  -> Direction: OUT - EndpointID: 1
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x82  -> Direction: IN - EndpointID: 2
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x83  -> Direction: IN - EndpointID: 3
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x0A
+
+       ---===>Full Configuration Descriptor<===---
+
+          ===>Configuration Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x02
+wTotalLength:                    0x0030  -> Validated
+bNumInterfaces:                    0x02
+bConfigurationValue:               0x01
+iConfiguration:                    0x00
+bmAttributes:                      0xA0  -> Bus Powered
+  -> Remote Wakeup
+MaxPower:                          0x32 = 100 mA
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x00
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x03
+bInterfaceClass:                   0xFF  -> Interface Class Unknown to USBView
+bInterfaceSubClass:                0x03
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x01  -> Direction: OUT - EndpointID: 1
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x82  -> Direction: IN - EndpointID: 2
+bmAttributes:                      0x02  -> Bulk Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x00
+
+          ===>Endpoint Descriptor<===
+bLength:                           0x07
+bDescriptorType:                   0x05
+bEndpointAddress:                  0x83  -> Direction: IN - EndpointID: 3
+bmAttributes:                      0x03  -> Interrupt Transfer Type
+wMaxPacketSize:                  0x0040 = 0x40 bytes
+bInterval:                         0x0A
+
+          ===>Interface Descriptor<===
+bLength:                           0x09
+bDescriptorType:                   0x04
+bInterfaceNumber:                  0x01
+bAlternateSetting:                 0x00
+bNumEndpoints:                     0x00
+bInterfaceClass:                   0xFF  -> Interface Class Unknown to USBView
+bInterfaceSubClass:                0x05
+bInterfaceProtocol:                0x00
+iInterface:                        0x00
+[Port3] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected
+[Port4] 
+
+
+Is Port User Connectable:         yes
+Is Port Debug Capable:            no
+Companion Port Number:            0
+Companion Hub Symbolic Link Name: 
+Protocols Supported:
+ USB 1.1:                         yes
+ USB 2.0:                         yes
+ USB 3.0:                         no
+
+ConnectionStatus:      NoDeviceConnected

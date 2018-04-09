@@ -1,0 +1,5 @@
+[INPUTS]
+Headers=center,UL,BL,BR,UR,best,worst,c2c,COG.x,COG.y,COG
+Unit=luma,luma,luma,luma,luma,%,%,%,pixel,pixel,luma
+UpLimit=250,250,250,250,250,110,110,25,420,260,250
+LowLimit=50,50,50,50,50,35,35,0,220,220,80

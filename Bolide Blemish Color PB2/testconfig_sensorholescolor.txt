@@ -1,0 +1,11 @@
+ClusterSize=2
+HammerSize=11
+BayerOutliers=80,40,80,40 
+CenterROI(%)=0.1,0.1,0.9,0.9
+BitsUsage=8,8 
+ClusterThreshold(%)=5,5,5,5,5,5,5,5,5,5 
+PixelThreshold(%)=5,5,5,5,5,5,5,5,5,5 
+LocalSearch=1
+BayerMode=0
+ColorUnderTest=1,1,1,0,0
+

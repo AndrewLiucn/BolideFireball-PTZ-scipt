@@ -1,0 +1,10 @@
+[inputs]
+Option=
+outputFile=
+
+Headers=DustCluster(center),DustCluster(side),DustCluster(total),Dust(R),Dust(G),Dust(B),Dust(G1),Dust(G2)
+LowLimit=0,0,0,100,100,100,000,000
+UpLimit=0,0,0,240,240,254,240,240
+TargetLimit=
+LogFile=test.log
+VarResultSummary=

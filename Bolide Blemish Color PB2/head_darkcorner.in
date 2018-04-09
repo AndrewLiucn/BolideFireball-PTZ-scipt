@@ -1,0 +1,10 @@
+[inputs]
+Option=
+outputFile=
+
+Headers=center,UL,BL,BR,UR,best,worst,c2c,COG.x,COG.y,COG
+LowLimit=250,250,250,250,250,110,110,25,420,260,250
+UpLimit=50,50,50,50,50,35,35,0,220,220,80
+TargetLimit=
+LogFile=test.log
+VarResultSummary=

@@ -1,0 +1,7 @@
+BayerOutliers=0,0,0,1 
+CenterROI(%)=0.1,0.1,0.9,0.9
+BitsUsage=10,8 
+ClusterThreshold(-)=18,18,18,18,18,18,18,18,18,18 
+PixelThreshold(-)=18,18,18,18,18,18,18,18,18,18 
+LocalSearch=0
+BayerMode=1

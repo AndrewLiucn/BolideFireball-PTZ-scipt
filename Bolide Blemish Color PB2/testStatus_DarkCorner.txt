@@ -1,0 +1,14 @@
+[Outputs]
+Status=0
+ReturnCode=0
+Message="Operation successful."
+Headers=center,UL,BL,BR,UR,best,worst,c2c,COG.x,COG.y,COG
+unit=luma,luma,luma,luma,luma,%,%,%,pixel,pixel,luma
+UpLimit=250.00,250.00,250.00,250.00,250.00,110.00,110.00,25.00,420.00,260.00,250.00
+Values=221.81,185.66,184.78,181.64,181.78,83.70,81.89,2.17,0.00,0.00,0.00
+LowLimit=50.00,50.00,50.00,50.00,50.00,35.00,35.00,0.00,220.00,220.00,80.00
+TestLimits="E:\Bolide Blemish Color PB2\testlimit_DarkCorner.txt"
+TestSettings=(null)
+LogFile="E:\Bolide Blemish Color PB2\UniformityLog.txt"
+BMPFileIn="C:\tstplan\SSD\Dust_180.bmp"
+calc time=0.03 sec

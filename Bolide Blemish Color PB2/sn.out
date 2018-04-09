@@ -1,0 +1,6 @@
+[outputs]
+Message=Ok
+Headers=sn
+Values=0x00000000
+LowLimit=
+UpLimit=1 

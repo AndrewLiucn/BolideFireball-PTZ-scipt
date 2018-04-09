@@ -1,0 +1,15 @@
+[CLUSTER]
+Header=StarCluster(center),StarCluster(side),StarCluster(total)
+Unit=count,count,count
+HighLimit=0,0,0
+LowLimit=0,0,0
+[PIXEL]
+Header=StarPixel(center),StarPixel(side),StarPixel(total)
+Unit=count,count,count
+HighLimit=0,0,0
+LowLimit=0,0,0
+[BRIGHTNESS]
+Header=Star(R),Star(G),Star(B),Star(G1),Star(G2)
+Unit=mean,mean,mean,mean,mean
+HighLimit=8,8,8,8,8
+LowLimit=0,0,0,0,0

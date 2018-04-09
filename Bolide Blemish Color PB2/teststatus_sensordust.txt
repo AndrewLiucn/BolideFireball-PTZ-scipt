@@ -1,0 +1,14 @@
+[OUTPUTS]
+Status=0
+ReturnCode=0
+Message="Operation successful."
+Headers=dustcluster(center),dustcluster(side),dustcluster(total),dust(r),dust(g),dust(b),dust(g1),dust(g2)
+UpLimit=0,0,0,250.00,250.00,250.00,250.00,250.00
+LowLimit=0,0,0,100.00,100.00,100.00,0.00,0.00
+Values=0,0,0,201.59,202.00,201.98,0.00,0.00
+TestLimits="E:\Bolide Blemish Color PB2\/testlimit_sensordust.txt"
+TestSettings="E:\Bolide Blemish Color PB2\/testconfig_sensordust.txt"
+LogFile="E:\Bolide Blemish Color PB2\/datalog_sensordust.txt"
+BMPFileIn="C:\tstPlan\SSD\Dust_180.bmp"
+
+calc time=1.09 sec

@@ -1,0 +1,4 @@
+[Inputs]
+Headers=HoleCluster(center),HoleCluster(side),HoleCluster(total),HolePixel(center),HolePixel(side),HolePixel(total),Hole(R),Hole(G),Hole(B),Hole(G1),Hole(G2)
+LowLimit=0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+UpLimit=0,0,0,5428,5428,5428,250.00,250.00,250.00,250.00,250.00

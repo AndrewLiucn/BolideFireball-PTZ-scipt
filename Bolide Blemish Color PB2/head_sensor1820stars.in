@@ -1,0 +1,10 @@
+[inputs]
+Option=
+outputFile=
+
+Headers=StarCluster(center),StarCluster(side),StarCluster(total),StarPixel(center),StarPixel(side),StarPixel(total),Star(R),Star(G),Star(B),Star(G1),Star(G2)
+LowLimit=0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+UpLimit=0,0,0,5000,5000,5000,30.00,30.00,30.00,30.00,30.00
+TargetLimit=
+LogFile=test.log
+VarResultSummary=

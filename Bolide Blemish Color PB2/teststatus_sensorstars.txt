@@ -1,0 +1,14 @@
+[OUTPUTS]
+Status=0
+ReturnCode=0
+Message="Operation successful."
+Headers=starcluster(center),starcluster(side),starcluster(total),starpixel(center),starpixel(side),starpixel(total),star(r),star(g),star(b),star(g1),star(g2)
+UpLimit=0,0,0,5428,5428,5428,30.00,30.00,30.00,30.00,30.00
+LowLimit=0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Values=0,0,0,35,22,57,12.28,0.00,12.27,12.30,12.30
+TestLimits="E:\Bolide Blemish Color PB1\testlimit_sensorstars.txt"
+TestSettings="E:\Bolide Blemish Color PB1\testconfig_sensorstars.txt"
+LogFile="E:\Bolide Blemish Color PB1\datalog_sensorstars.txt"
+BMPFileIn="C:\tstPlan\SSD\BayerFrameHOT.bmp"
+
+calc time=1.22 sec
