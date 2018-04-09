@@ -1,0 +1,12 @@
+[Outputs]
+Status=1
+ReturnCode=1
+Message=
+[E]: error result.
+Headers=name1
+Values=N/A
+LowLimit=0.0
+UpLimit=10.0
+TargetLimit=10.0
+LogFile=test.log
+VarResultSummary=

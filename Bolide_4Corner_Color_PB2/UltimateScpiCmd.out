@@ -1,0 +1,12 @@
+[Outputs]
+Status=0
+ReturnCode=0
+Message=Ok!
+Headers=USBVoltage
+Values=
+LowLimit=0.0
+UpLimit=5.0
+TargetLimit=5.0
+LogFile=D:\Bolide_4Corner_Color_PB1\UltimateScpiCmd.log
+VarResultSummary=
+

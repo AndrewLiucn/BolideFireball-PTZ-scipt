@@ -1,0 +1,11 @@
+[Outputs]
+Status=1
+ReturnCode=1
+Message=There is no SCPI instrument.
+Headers=I_USB5V2
+Values=
+LowLimit=0.045
+UpLimit=0.065
+TargetLimit=0.056
+LogFile=E:\29-Jul-2016\Babylon 4k 8L 4Corner and Color\UltimateScpiCmd.log
+VarResultSummary=

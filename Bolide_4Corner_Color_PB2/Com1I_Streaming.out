@@ -1,0 +1,11 @@
+[Outputs]
+Status=1
+ReturnCode=1
+Message=[E]:"I_Streaming, Failure low limit! (Up=0.35) >= (Value=5.82008E-2) >= (Low=0.2)"
+Headers=I_Streaming
+Values=5.82008E-2
+LowLimit=0.2
+UpLimit=0.35
+TargetLimit=0.26
+LogFile=E:\Babylon\Engineering Build\Babylon 4k MTF Recheck from Krypto-MTF\UltimateScpiCmd.log
+VarResultSummary=

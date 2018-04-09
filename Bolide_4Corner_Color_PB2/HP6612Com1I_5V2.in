@@ -1,0 +1,19 @@
+[inputs]
+; Get output currct
+; SCPICmd="MEASure:CURRent?"
+Option=Send
+SCPICmd="MEASure:CURRent?"
+COMPort=1
+ShowCFG=0
+avoidreturn=false
+;outputFile=c:\Working.out
+;logfile=c:\UltimateScpiCmd.log
+
+ExitPause=False
+;
+Headers=I_USB5V2
+UpLimit=0.065
+LowLimit=0.045
+TargetLimit=0.056
+
+

@@ -1,0 +1,12 @@
+@echo off
+
+Set EasyAVRuntimeEnginePath=c:\Program Files\Common Files\Logitech\EasyAVRuntimeEngine\
+Set PATH=%PATH%;%EasyAVRuntimeEnginePath%
+
+call "UltimateScpiCmd.exe" /option:send /scpicmd="current 2.0" /COMPort:1 /avoidreturn:true
+call "UltimateScpiCmd.exe" /option:send /scpicmd="voltage 0;output:state on" /COMPort:1 /avoidreturn:true
+
+
+rem pause
+
+exit 0

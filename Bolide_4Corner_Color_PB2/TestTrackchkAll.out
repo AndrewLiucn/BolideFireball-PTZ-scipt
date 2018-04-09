@@ -1,0 +1,9 @@
+[Outputs]
+Status=0
+ReturnCode=0
+Message=OK!
+Headers=wifimac
+Values=3_00X5_00X7_00X9_00XB_99XD_00XF_00X1_00X2_00X3_00
+LowLimit=0
+UpLimit=3500
+TargetLimit=3500

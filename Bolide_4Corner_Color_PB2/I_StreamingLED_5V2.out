@@ -1,0 +1,12 @@
+[Outputs]
+Status=1
+ReturnCode=1
+Message=[E]:"I_StreamingLED_5V2, Failure low limit! (Up=0.077) >= (Value=) >= (Low=0.050)"
+Headers=I_StreamingLED_5V2
+Values=
+LowLimit=0.050
+UpLimit=0.077
+TargetLimit=0.072
+LogFile=D:\Median_Four corner\meridian 4k 8L 4Corner and Color PB1\UltimateScpiCmd.log
+VarResultSummary=
+
