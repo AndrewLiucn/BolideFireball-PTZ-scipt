@@ -1,0 +1,11 @@
+[Outputs]
+Status=0
+ReturnCode=0
+Message=Ok!
+Headers=Backlash(1),Backlash(2),Backlash(3),variation, VarResultSummary
+Values=1.000000 ,1.000000 ,1.000000 , 0.000000, 1.000000
+LowLimit=-1,-1,-1,0,-1
+UpLimit=8,4,4,3,4
+TargetLimit=0,0,0,0,0
+LogFile=test.log
+VarResultSummary=0X01

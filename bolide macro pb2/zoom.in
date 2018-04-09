@@ -1,0 +1,34 @@
+[inputs]
+
+Option=BacklashVendor
+;Option=MoveToHome
+ShowCFG=1
+OutputFile=zoom.out
+ExitPause=FALSE
+OptionTimeout=50000
+PIBoundary=1
+HomeInitStep=1
+HomeSecondStart=-10
+Motortype=zoom
+MovingSteps=1000
+MovingStepsBack=990
+PISamplingCount=3
+PISamplingDelay=5
+Cycles=3
+HomeDelay=250
+Delay=250
+PassCount=0
+DelayAfterBigStepsForward=2700
+DelayAfterBigStepsBackward=2700
+ResultCalculate=median
+
+;
+Headers=Backlash(1),Backlash(2),Backlash(3),variation, VarResultSummary
+LowLimit=-1,-1,-1,0,-1
+UpLimit=8,4,4,3,4
+TargetLimit=0,0,0,0,0
+;
+;Headers=Backlash(1), VarResultSummary
+;LowLimit=-5,-5
+;UpLimit=10,10
+;TargetLimit=0,0

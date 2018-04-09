@@ -1,0 +1,2561 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--BUILT ON KINETIC VERSION: [1.0.1474] 0cdd25a661df46e49586dd6ccdeb17c9_17:57:45.1437621_-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<!--NOTES:-->
+<KineticTestPlan>
+  <TestEngine id="TestModuleList">
+    <Test id="KineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)" Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KineticTstEngineCmd" Enable="True">
+      <Options id="MODE">
+        <OptionsVal id="0" />
+      </Options>
+    </Test>
+    <Test id="Input_MessageBox(please enter 3 numbers,please message here,***);" Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.Input_MessageBox" Enable="True">
+      <NumRetry id="Retry(10);" />
+    </Test>
+    <Test id="Sleep(8000);" Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.SleepEx" Enable="True">
+      <SLEEP id="Mode(ms)" />
+    </Test>
+    <Test id="run(usb2.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=FALSE;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=;" />
+        <InputFile id="InputFile=;" />
+        <Name id="Name=USB 2.0 ENUM CHECK" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="run(RunTestTracking_OnStart.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=true;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=NULL;" />
+        <InputFile id="InputFile=NULL;" />
+        <Name id="Name=1_misspretest1;" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="run(RunTestTracking_OnLog.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=true;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=tracking.txt;" />
+        <InputFile id="InputFile=NULL;" />
+        <Name id="Name=testtrackinglog;" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="run(taken.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=true;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=sn.out;" />
+        <InputFile id="InputFile=sn.in;" />
+        <Name id="Name=snlog;" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="run(Re_Enumerate.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=Sync;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=null;         " />
+        <InputFile id="InputFile=null;            " />
+        <Name id="Name=Re_Enumerate;                //This is the name of the module" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="Sleep(8000);" Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.SleepEx" Enable="True">
+      <SLEEP id="Mode(ms)" />
+    </Test>
+    <Test id="run(GoIQDefault.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=true;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=;" />
+        <InputFile id="InputFile=;" />
+        <Name id="Name=SetDefaultIQ;" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="Sleep(3000);" Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.SleepEx" Enable="True">
+      <SLEEP id="Mode(ms)" />
+    </Test>
+    <Test id="VCMRangeTest //4.5x ZOOM v3" Assembly="..\TestModules\VCMTestModule\VCMTestModule.dll" Type="VCMTestModule.VCMTestModule" Enable="True">
+      <testName id="TestName">
+        <testNameVal id="[I]4.8x ZOOM" />
+      </testName>
+      <ModuleEnable id="ModuleEnable">
+        <ModuleEnableVal id="TRUE" />
+      </ModuleEnable>
+      <MTFController id="MTFController">
+        <MTFScanDirection id="MTFScanDirection // Controls the MTF caculation approach">
+          <MTFScanDirectionVal id="SOLID_TO_VLINES" />
+        </MTFScanDirection>
+        <LockPointTendency id="LockPointTendencyControl //Will generate LockPointTendency.CSV file">
+          <LockPointTendencyVal id="TRUE" />
+        </LockPointTendency>
+        <MinPixelDelta id="MinPixelDelta //">
+          <MinPixelDeltaVal id="20" />
+        </MinPixelDelta>
+        <ZScoreDelta id="ZScoreDelta //">
+          <ZScoreDeltaVal id="1.2" />
+        </ZScoreDelta>
+        <MinimumLines id="MinimumLines //">
+          <MinimumLinesVal id="1" />
+        </MinimumLines>
+      </MTFController>
+      <ImageSource id="ImageSource">
+        <FromDevice id="FromDevice">
+          <CaptureDir id="TRUE" />
+        </FromDevice>
+        <Capture id="Bitmap">
+          <CaptureDir id="C:\DefualtSourceFourCornerTestImage.bmp" />
+        </Capture>
+      </ImageSource>
+      <VCMRangeTestSettings id="VCMRangeSettings">"
+        <MTFStartPoinTX_1 id="MTFStartPoinTX_1"><X_POINT id="X_POINT"><XVal id="1190" /></X_POINT><Y_POINT id="Y_POINT"><YVAL id="480" /></Y_POINT><SCANLENGTH id="SCAN_LENGTH"><SCANVal id="300" /></SCANLENGTH></MTFStartPoinTX_1><MTFThreshold id="MTFThreshold       // the level that the mtf peak must be above and between x1 and x2 for it to pass"><ThresholdVal id="20" /></MTFThreshold><VCMPeakSearhPoint1 id="VCMPeakSearhPoint1 // peak search point X1 start point"><VCMPeakSearhPoint1Val id="1" /></VCMPeakSearhPoint1><VCMPeakSearhPoint2 id="VCMPeakSearhPoint2 // peak search point X2 end point"><VCMPeakSearhPoint2Val id="255" /></VCMPeakSearhPoint2><VCMStepDelay id="VCMStepDelay       // this is the step rate for the vcm in ms"><VCMStepDelayVal id="150" /></VCMStepDelay><VCMStepRange id="VCMStepRange       // the max range of travel for the vcm typical value is 1 - 255 steps"><VCMStepRangeVal id="255" /></VCMStepRange><MTFLowerLimit id="MTFLowerLimit      //Must be above the lower limit to pass"><MTFLowerLimitVal id="20" /></MTFLowerLimit><MTFUpperLimit id="MTFUpperLimit      //Must be below the upper limit to pass"><MTFUpperLimitVal id="300" /></MTFUpperLimit><VCMStorageMode id="VCMStorageMode     //VCM storage modes are 0 Replace. 1 only failed test. 2 both pass and fail"><TVCMStorageModeVal id="2" /></VCMStorageMode><VCMYScanLevel id="VCMYScanLevel      //Controls the scan level on the y axis for MTF value 50% is middle"><VCMYScanLevelVal id="20" /></VCMYScanLevel><stepSize id="StepSize//"><stepSizeVal id="3" /></stepSize><mdir id="mDir// CCW or CW"><mDirVal id="CW" /></mdir><ControlModel id="ControlModel// ABSOLUTE or RELATIVE"><ControlModelVal id="RELATIVE" /></ControlModel>\
+		
+		<TimeIn_ms id="TimeIn_ms"><TimeIn_msVal id="5000" /></TimeIn_ms><EEPROM_WRITE_MODE id="EEPROM_WRITE_MODE  // When this mode is enabled it will write the step count to eeprom"><ENABLED id="ENABLED=FALSE;" /><ADDRESS id="ADDRESSLOW=;" /><eepromADDRESSHIGH id="ADDRESSHIGH=;" /><CalibrationValue id="CalibrationValue"><OutSideAdjustment id="OutSideAdjustment=0;" /><StepBais id="StepBais=0;" /><Direction id="Direction=1" /></CalibrationValue></EEPROM_WRITE_MODE></VCMRangeTestSettings>
+      <ProboardSettings id="ProboardSettings">
+        <Proboard_Enable id="Proboard_Enable">
+          <EnableProVal id="FALSE" />
+        </Proboard_Enable>
+        <Port_Start id="Port_Start">
+          <EnableSTRVal id="FALSE" />
+        </Port_Start>
+        <Port_Stop id="Port_Stop">
+          <EnableSTPVal id="FALSE" />
+        </Port_Stop>
+      </ProboardSettings>
+      <ReportingController id="ReportingController">
+        <TestTracking id="TestTracking">
+          <enableTstTracking id="Enable">
+            <enableTstTrackingVal id="FALSE" />
+          </enableTstTracking>
+          <TestOrder id="TestOrder">
+            <TestOrderVal id="3" />
+          </TestOrder>
+          <StationNumber id="StationNumber">
+            <StationNumberVal id="1" />
+          </StationNumber>
+          <NumberOfTests id="NumberOfTests">
+            <NumberOfTestsVal id="6" />
+          </NumberOfTests>
+          <DigitalSNoAddress id="DigitalSNoAddress">
+            <DigitalSNoAddressVal id="0xFFF00" />
+          </DigitalSNoAddress>
+          <BOMVersionAddress id="BOMVersionAddress">
+            <BOMVersionAddressVal id="0xFFF04" />
+          </BOMVersionAddress>
+          <BOMVersionMinor id="BOMVersionMinor">
+            <BOMVersionMinorVal id="99" />
+          </BOMVersionMinor>
+          <TestLogBaseAddress id="TestLogBaseAddress">
+            <TestLogBaseAddressVal id="0xFFF06" />
+          </TestLogBaseAddress>
+          <TestTrackingMemoryMode id="TestTrackingMemoryMode">
+            <TestTrackingMemoryModeVal id="flash" />
+          </TestTrackingMemoryMode>
+        </TestTracking>
+        <CSVReportEnabled id="CSVReportEnabled">
+          <CSVReportEnabledVal id="TRUE" />
+        </CSVReportEnabled>
+        <KIneticStandard2011 id="KIneticStandard2011">
+          <KIneticStandard2011Val id="FALSE" />
+        </KIneticStandard2011>
+        <ProLineInI id="ProLineInI">
+          <TP_Revision id="TP_Revision">
+            <TP_RevisionVal id="1.0.0.1" />
+          </TP_Revision>
+          <TP_Rev_Date id="TP_Rev_Date">
+            <TP_Rev_DateVal id="yymmddss" />
+          </TP_Rev_Date>
+          <TP_Rev_Owner id="TP_Rev_Owner">
+            <TP_Rev_OwnerVal id="TDE" />
+          </TP_Rev_Owner>
+          <ConnectionStatus id="Connection">
+            <ConnectionStatusVal id="SUCCESS" />
+          </ConnectionStatus>
+          <ProductionStatus id="Production">
+            <ProlineLine id="Line">
+              <ProlineLineVal id="B5L1" />
+            </ProlineLine>
+            <Station id="Station">
+              <StationVal id="BON0" />
+            </Station>
+            <Machine_ID id="Machine_ID">
+              <Machine_IDVAl id="PC-F" />
+            </Machine_ID>
+            <e8L_Part_No id="8L_Part_No">
+              <e8L_Part_NoVal id="PC-F" />
+            </e8L_Part_No>
+            <e22L_Part_No id="22L_Part_No">
+              <e22L_Part_NoVal id="220-000670" />
+            </e22L_Part_No>
+            <Model_Name id="Model_Name">
+              <Model_NameVal id="U0006" />
+            </Model_Name>
+          </ProductionStatus>
+        </ProLineInI>
+        <OutputHeader id="Header">
+          <HeaderSTRVal id="AUDIOMIC:AUDIO:Val1, AUDIOMIC:AUDIO:Val2, AUDIOMIC:AUDIO:Val3" />
+        </OutputHeader>
+      </ReportingController>
+      <CameraImageProperties id="CameraImageProperties">
+        <friendlyName id="FriendlyName">
+          <friendlyNameVal id="USB Video Device" />
+        </friendlyName>
+        <VIDPID id="VIDPID">
+          <VID id="VID">
+            <VID_VAL id="0x046d" />
+          </VID>
+          <PID id="PID">
+            <PID_VAL id="0x0881" />
+          </PID>
+        </VIDPID>
+        <FYProduct id="FYProduct">
+          <FYProduct_Val id="FY11" />
+        </FYProduct>
+        <ImageTestResolution id="ImageTestResolution">
+          <ImageTestResolutionWidth id="width">
+            <ImageTestResolutionWidthVal id="1920" />
+          </ImageTestResolutionWidth>
+          <ImageTestResolutionHeight id="Height">
+            <ImageTestResolutionHeightVal id="1080" />
+          </ImageTestResolutionHeight>
+        </ImageTestResolution>
+        <CommandDelay_ms id="CommandDelay_ms">
+          <CommandDelay_msVal id="200" />
+        </CommandDelay_ms>
+        <setBeforeOrAfterPreview id="setBeforeOrAfterPreview">
+          <setBeforeOrAfterPreviewVal id="AFTER" />
+        </setBeforeOrAfterPreview>
+        <TDEMode id="TDEMode">
+          <TDEModeEnable id="Enable">
+            <TDEModeEnableVal id="TRUE" />
+          </TDEModeEnable>
+          <TDEModeProp id="SetTDEMode">
+            <TDEModePropVal id="TRUE" />
+          </TDEModeProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </TDEMode>
+        <Brightness id="Brightness">
+          <BrightnessEnable id="Enable">
+            <BrightnessEnableVal id="TRUE" />
+          </BrightnessEnable>
+          <BrightnessProp id="SetBrightness">
+            <BrightnessVal id="128" />
+          </BrightnessProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Brightness>
+        <Contrast id="Contrast">
+          <ContrastEnable id="Enable">
+            <ContrastEnableVal id="TRUE" />
+          </ContrastEnable>
+          <ContrastProp id="SetContrast">
+            <ContrastVal id="128" />
+          </ContrastProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Contrast>
+        <Gain id="Gain">
+          <GainEnable id="Enable">
+            <GainEnableVal id="TRUE" />
+          </GainEnable>
+          <GainProp id="SetGain">
+            <GainVal id="0" />
+          </GainProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Gain>
+        <Exposure id="Exposure">
+          <ExposureEnable id="Enable">
+            <ExposureEnableVal id="TRUE" />
+          </ExposureEnable>
+          <ExposureProp id="SetExposure">
+            <ExposureVal id="-7" />
+          </ExposureProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Exposure>
+        <Saturation id="Saturation">
+          <SaturationEnable id="Enable">
+            <SaturationEnableVal id="TRUE" />
+          </SaturationEnable>
+          <SaturationProp id="SetSaturation">
+            <SaturationVal id="130" />
+          </SaturationProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Saturation>
+        <Sharpness id="Sharpness">
+          <SharpnessEnable id="Enable">
+            <SharpnessEnableVal id="TRUE" />
+          </SharpnessEnable>
+          <SharpnessProp id="SetSharpness">
+            <SharpnessVal id="128" />
+          </SharpnessProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Sharpness>
+        <WhiteBalance id="WhiteBalance">
+          <WhiteBalanceEnable id="Enable">
+            <WhiteBalanceVal id="TRUE" />
+          </WhiteBalanceEnable>
+          <WhiteBalanceProp id="SetWhiteBalance">
+            <WhiteBalanceVal id="4000" />
+          </WhiteBalanceProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </WhiteBalance>
+        <BackLightCompensation id="BackLightCompensation">
+          <BackLightCompensationEnable id="Enable">
+            <BackLightCompensationVal id="FALSE" />
+          </BackLightCompensationEnable>
+          <BackLightCompensationProp id="SetBackLightCompensation">
+            <BackLightCompensationVal id="0" />
+          </BackLightCompensationProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </BackLightCompensation>
+        <SetAbsoluteExposure id="SetAbsoluteExposure">
+          <SetAbsoluteExposureEnable id="Enable">
+            <SetAbsoluteExposureVal id="TRUE" />
+          </SetAbsoluteExposureEnable>
+          <SetAbsoluteExposureProp id="SetAbsoluteExposure">
+            <SetAbsoluteExposureVal id="0.032" />
+          </SetAbsoluteExposureProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </SetAbsoluteExposure>
+        <SetAbsoluteGain id="SetAbsoluteGain">
+          <SetAbsoluteGainEnable id="Enable">
+            <SetAbsoluteGainVal id="TRUE" />
+          </SetAbsoluteGainEnable>
+          <SetAbsoluteGainProp id="SetAbsoluteGain">
+            <SetAbsoluteGainVal id="2" />
+          </SetAbsoluteGainProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </SetAbsoluteGain>
+        <Hue id="Hue">
+          <HueEnable id="Enable">
+            <HueEnableVal id="FALSE" />
+          </HueEnable>
+          <HueProp id="SetHue">
+            <HueVal id="0" />
+          </HueProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Hue>
+        <EnableGammaCorrection id="EnableGammaCorrection">
+          <EnableGammaCorrectionEnable id="Enable">
+            <EnableGammaCorrectionEnableVal id="FALSE" />
+          </EnableGammaCorrectionEnable>
+          <EnableGammaCorrectionProp id="SetEnableGammaCorrection">
+            <EnableGammaCorrectionVal id="FALSE" />
+          </EnableGammaCorrectionProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </EnableGammaCorrection>
+        <Gamma id="Gamma">
+          <GammaEnable id="Enable">
+            <GammaEnableVal id="FALSE" />
+          </GammaEnable>
+          <GammaProp id="SetGamma">
+            <GammaVal id="0" />
+          </GammaProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Gamma>
+        <ColorEnable id="ColorEnable">
+          <ColorEnableEnable id="Enable">
+            <ColorEnableVal id="FALSE" />
+          </ColorEnableEnable>
+          <ColorEnableProp id="SetColorEnable">
+            <ColorEnableVal id="0" />
+          </ColorEnableProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </ColorEnable>
+        <Pan id="Pan">
+          <PanEnable id="Enable">
+            <PanEnableVal id="FALSE" />
+          </PanEnable>
+          <PanProp id="SetPan">
+            <PanVal id="0" />
+          </PanProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Pan>
+        <Tilt id="Tilt">
+          <TiltEnable id="Enable">
+            <TiltEnableVal id="FALSE" />
+          </TiltEnable>
+          <TiltProp id="SetTilt">
+            <TiltVal id="0" />
+          </TiltProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Tilt>
+        <Roll id="Roll">
+          <RollEnable id="Enable">
+            <RollEnableVal id="FALSE" />
+          </RollEnable>
+          <RollProp id="SetRoll">
+            <RollVal id="0" />
+          </RollProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Roll>
+        <Zoom id="Zoom">
+          <ZoomEnable id="Enable">
+            <ZoomEnableVal id="TRUE" />
+          </ZoomEnable>
+          <ZoomProp id="SetZoom">
+            <ZoomVal id="480" />
+          </ZoomProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Zoom>
+        <EnableLensCorrection id="EnableLensCorrection">
+          <EnableLensCorrectionEnable id="Enable">
+            <EnableLensCorrectionVal id="FALSE" />
+          </EnableLensCorrectionEnable>
+          <EnableLensCorrectionProp id="SetEnableLensCorrection">
+            <EnableLensCorrectionVal id="FALSE" />
+          </EnableLensCorrectionProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </EnableLensCorrection>
+        <ViewPort id="ViewPort">
+          <ViewPortEnable id="Enable">
+            <ViewPortVal id="FALSE" />
+          </ViewPortEnable>
+          <ViewPortProp id="SetViewPort">
+            <ViewPortVal id="FALSE" />
+          </ViewPortProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </ViewPort>
+        <FlipCameraImage id="FlipCameraImage">
+          <FlipCameraImageEnable id="Enable">
+            <FlipCameraImageVal id="TRUE" />
+          </FlipCameraImageEnable>
+          <FlipCameraImageProp id="SetFlipCameraImage">
+            <FlipCameraImageVal id="RotateNoneFlipY" />
+          </FlipCameraImageProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </FlipCameraImage>
+        <VideoFormat id="VideoFormat">
+          <VideoFormatEnable id="Enable">
+            <VideoFormatVal id="TRUE" />
+          </VideoFormatEnable>
+          <VideoFormatProp id="SetVideoFormat">
+            <VideoFormatVal id="YUY2" />
+          </VideoFormatProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </VideoFormat>
+        <FrameRate id="FrameRate">
+          <FrameRateEnable id="Enable">
+            <FrameRateVal id="TRUE" />
+          </FrameRateEnable>
+          <FrameRateProp id="SetFrameRate">
+            <FrameRateVal id="5" />
+          </FrameRateProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </FrameRate>
+      </CameraImageProperties>
+    </Test>
+    <Test id="Sleep(9000);" Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.SleepEx" Enable="True">
+      <SLEEP id="Mode(ms)" />
+    </Test>
+    <Test id="VCMRangeTest //1.0x ZOOM v3" Assembly="..\TestModules\VCMTestModule\VCMTestModule.dll" Type="VCMTestModule.VCMTestModule" Enable="True">
+      <testName id="TestName">
+        <testNameVal id="[F]1.0x ZOOM" />
+      </testName>
+      <ModuleEnable id="ModuleEnable">
+        <ModuleEnableVal id="TRUE" />
+      </ModuleEnable>
+      <MTFController id="MTFController">
+        <MTFScanDirection id="MTFScanDirection // Controls the MTF caculation approach">
+          <MTFScanDirectionVal id="SOLID_TO_VLINES" />
+        </MTFScanDirection>
+        <LockPointTendency id="LockPointTendencyControl //Will generate LockPointTendency.CSV file">
+          <LockPointTendencyVal id="TRUE" />
+        </LockPointTendency>
+        <MinPixelDelta id="MinPixelDelta //">
+          <MinPixelDeltaVal id="25" />
+        </MinPixelDelta>
+        <ZScoreDelta id="ZScoreDelta //">
+          <ZScoreDeltaVal id="1.2" />
+        </ZScoreDelta>
+        <MinimumLines id="MinimumLines //">
+          <MinimumLinesVal id="1" />
+        </MinimumLines>
+      </MTFController>
+      <ImageSource id="ImageSource">
+        <FromDevice id="FromDevice">
+          <CaptureDir id="TRUE" />
+        </FromDevice>
+        <Capture id="Bitmap">
+          <CaptureDir id="C:\DefualtSourceFourCornerTestImage.bmp" />
+        </Capture>
+      </ImageSource>
+      <VCMRangeTestSettings id="VCMRangeSettings">"
+        <MTFStartPoinTX_1 id="MTFStartPoinTX_1"><X_POINT id="X_POINT"><XVal id="380" /></X_POINT><Y_POINT id="Y_POINT"><YVAL id="450" /></Y_POINT><SCANLENGTH id="SCAN_LENGTH"><SCANVal id="280" /></SCANLENGTH></MTFStartPoinTX_1><MTFThreshold id="MTFThreshold       // the level that the mtf peak must be above and between x1 and x2 for it to pass"><ThresholdVal id="20" /></MTFThreshold><VCMPeakSearhPoint1 id="VCMPeakSearhPoint1 // peak search point X1 start point"><VCMPeakSearhPoint1Val id="10" /></VCMPeakSearhPoint1><VCMPeakSearhPoint2 id="VCMPeakSearhPoint2 // peak search point X2 end point"><VCMPeakSearhPoint2Val id="255" /></VCMPeakSearhPoint2><VCMStepDelay id="VCMStepDelay       // this is the step rate for the vcm in ms"><VCMStepDelayVal id="150" /></VCMStepDelay><VCMStepRange id="VCMStepRange       // the max range of travel for the vcm typical value is 1 - 255 steps"><VCMStepRangeVal id="255" /></VCMStepRange><MTFLowerLimit id="MTFLowerLimit      //Must be above the lower limit to pass"><MTFLowerLimitVal id="20" /></MTFLowerLimit><MTFUpperLimit id="MTFUpperLimit      //Must be below the upper limit to pass"><MTFUpperLimitVal id="300" /></MTFUpperLimit><VCMStorageMode id="VCMStorageMode     //VCM storage modes are 0 Replace. 1 only failed test. 2 both pass and fail"><TVCMStorageModeVal id="2" /></VCMStorageMode><VCMYScanLevel id="VCMYScanLevel      //Controls the scan level on the y axis for MTF value 50% is middle"><VCMYScanLevelVal id="20" /></VCMYScanLevel><stepSize id="StepSize//"><stepSizeVal id="3" /></stepSize><mdir id="mDir// CCW or CW"><mDirVal id="CW" /></mdir><ControlModel id="ControlModel// ABSOLUTE or RELATIVE"><ControlModelVal id="RELATIVE" /></ControlModel>\
+		
+		<TimeIn_ms id="TimeIn_ms"><TimeIn_msVal id="1000" /></TimeIn_ms><EEPROM_WRITE_MODE id="EEPROM_WRITE_MODE  // When this mode is enabled it will write the step count to eeprom"><ENABLED id="ENABLED=FALSE;" /><ADDRESS id="ADDRESSLOW=;" /><eepromADDRESSHIGH id="ADDRESSHIGH=;" /><CalibrationValue id="CalibrationValue"><OutSideAdjustment id="OutSideAdjustment=0;" /><StepBais id="StepBais=0;" /><Direction id="Direction=1" /></CalibrationValue></EEPROM_WRITE_MODE></VCMRangeTestSettings>
+      <ProboardSettings id="ProboardSettings">
+        <Proboard_Enable id="Proboard_Enable">
+          <EnableProVal id="FALSE" />
+        </Proboard_Enable>
+        <Port_Start id="Port_Start">
+          <EnableSTRVal id="FALSE" />
+        </Port_Start>
+        <Port_Stop id="Port_Stop">
+          <EnableSTPVal id="FALSE" />
+        </Port_Stop>
+      </ProboardSettings>
+      <ReportingController id="ReportingController">
+        <TestTracking id="TestTracking">
+          <enableTstTracking id="Enable">
+            <enableTstTrackingVal id="FALSE" />
+          </enableTstTracking>
+          <TestOrder id="TestOrder">
+            <TestOrderVal id="3" />
+          </TestOrder>
+          <StationNumber id="StationNumber">
+            <StationNumberVal id="1" />
+          </StationNumber>
+          <NumberOfTests id="NumberOfTests">
+            <NumberOfTestsVal id="6" />
+          </NumberOfTests>
+          <DigitalSNoAddress id="DigitalSNoAddress">
+            <DigitalSNoAddressVal id="0xFFF00" />
+          </DigitalSNoAddress>
+          <BOMVersionAddress id="BOMVersionAddress">
+            <BOMVersionAddressVal id="0xFFF04" />
+          </BOMVersionAddress>
+          <BOMVersionMinor id="BOMVersionMinor">
+            <BOMVersionMinorVal id="99" />
+          </BOMVersionMinor>
+          <TestLogBaseAddress id="TestLogBaseAddress">
+            <TestLogBaseAddressVal id="0xFFF06" />
+          </TestLogBaseAddress>
+          <TestTrackingMemoryMode id="TestTrackingMemoryMode">
+            <TestTrackingMemoryModeVal id="flash" />
+          </TestTrackingMemoryMode>
+        </TestTracking>
+        <CSVReportEnabled id="CSVReportEnabled">
+          <CSVReportEnabledVal id="TRUE" />
+        </CSVReportEnabled>
+        <KIneticStandard2011 id="KIneticStandard2011">
+          <KIneticStandard2011Val id="FALSE" />
+        </KIneticStandard2011>
+        <ProLineInI id="ProLineInI">
+          <TP_Revision id="TP_Revision">
+            <TP_RevisionVal id="1.0.0.1" />
+          </TP_Revision>
+          <TP_Rev_Date id="TP_Rev_Date">
+            <TP_Rev_DateVal id="yymmddss" />
+          </TP_Rev_Date>
+          <TP_Rev_Owner id="TP_Rev_Owner">
+            <TP_Rev_OwnerVal id="TDE" />
+          </TP_Rev_Owner>
+          <ConnectionStatus id="Connection">
+            <ConnectionStatusVal id="SUCCESS" />
+          </ConnectionStatus>
+          <ProductionStatus id="Production">
+            <ProlineLine id="Line">
+              <ProlineLineVal id="B5L1" />
+            </ProlineLine>
+            <Station id="Station">
+              <StationVal id="BON0" />
+            </Station>
+            <Machine_ID id="Machine_ID">
+              <Machine_IDVAl id="PC-F" />
+            </Machine_ID>
+            <e8L_Part_No id="8L_Part_No">
+              <e8L_Part_NoVal id="PC-F" />
+            </e8L_Part_No>
+            <e22L_Part_No id="22L_Part_No">
+              <e22L_Part_NoVal id="220-000670" />
+            </e22L_Part_No>
+            <Model_Name id="Model_Name">
+              <Model_NameVal id="U0006" />
+            </Model_Name>
+          </ProductionStatus>
+        </ProLineInI>
+        <OutputHeader id="Header">
+          <HeaderSTRVal id="AUDIOMIC:AUDIO:Val1, AUDIOMIC:AUDIO:Val2, AUDIOMIC:AUDIO:Val3" />
+        </OutputHeader>
+      </ReportingController>
+      <CameraImageProperties id="CameraImageProperties">
+        <friendlyName id="FriendlyName">
+          <friendlyNameVal id="USB Video Device" />
+        </friendlyName>
+        <VIDPID id="VIDPID">
+          <VID id="VID">
+            <VID_VAL id="0x046d" />
+          </VID>
+          <PID id="PID">
+            <PID_VAL id="0x0881" />
+          </PID>
+        </VIDPID>
+        <FYProduct id="FYProduct">
+          <FYProduct_Val id="FY11" />
+        </FYProduct>
+        <ImageTestResolution id="ImageTestResolution">
+          <ImageTestResolutionWidth id="width">
+            <ImageTestResolutionWidthVal id="1920" />
+          </ImageTestResolutionWidth>
+          <ImageTestResolutionHeight id="Height">
+            <ImageTestResolutionHeightVal id="1080" />
+          </ImageTestResolutionHeight>
+        </ImageTestResolution>
+        <CommandDelay_ms id="CommandDelay_ms">
+          <CommandDelay_msVal id="200" />
+        </CommandDelay_ms>
+        <setBeforeOrAfterPreview id="setBeforeOrAfterPreview">
+          <setBeforeOrAfterPreviewVal id="AFTER" />
+        </setBeforeOrAfterPreview>
+        <TDEMode id="TDEMode">
+          <TDEModeEnable id="Enable">
+            <TDEModeEnableVal id="TRUE" />
+          </TDEModeEnable>
+          <TDEModeProp id="SetTDEMode">
+            <TDEModePropVal id="TRUE" />
+          </TDEModeProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </TDEMode>
+        <Brightness id="Brightness">
+          <BrightnessEnable id="Enable">
+            <BrightnessEnableVal id="TRUE" />
+          </BrightnessEnable>
+          <BrightnessProp id="SetBrightness">
+            <BrightnessVal id="128" />
+          </BrightnessProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Brightness>
+        <Contrast id="Contrast">
+          <ContrastEnable id="Enable">
+            <ContrastEnableVal id="TRUE" />
+          </ContrastEnable>
+          <ContrastProp id="SetContrast">
+            <ContrastVal id="195" />
+          </ContrastProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Contrast>
+        <Gain id="Gain">
+          <GainEnable id="Enable">
+            <GainEnableVal id="TRUE" />
+          </GainEnable>
+          <GainProp id="SetGain">
+            <GainVal id="0" />
+          </GainProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Gain>
+        <Exposure id="Exposure">
+          <ExposureEnable id="Enable">
+            <ExposureEnableVal id="TRUE" />
+          </ExposureEnable>
+          <ExposureProp id="SetExposure">
+            <ExposureVal id="-7" />
+          </ExposureProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Exposure>
+        <Saturation id="Saturation">
+          <SaturationEnable id="Enable">
+            <SaturationEnableVal id="TRUE" />
+          </SaturationEnable>
+          <SaturationProp id="SetSaturation">
+            <SaturationVal id="130" />
+          </SaturationProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Saturation>
+        <Sharpness id="Sharpness">
+          <SharpnessEnable id="Enable">
+            <SharpnessEnableVal id="TRUE" />
+          </SharpnessEnable>
+          <SharpnessProp id="SetSharpness">
+            <SharpnessVal id="128" />
+          </SharpnessProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Sharpness>
+        <WhiteBalance id="WhiteBalance">
+          <WhiteBalanceEnable id="Enable">
+            <WhiteBalanceVal id="TRUE" />
+          </WhiteBalanceEnable>
+          <WhiteBalanceProp id="SetWhiteBalance">
+            <WhiteBalanceVal id="4000" />
+          </WhiteBalanceProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </WhiteBalance>
+        <BackLightCompensation id="BackLightCompensation">
+          <BackLightCompensationEnable id="Enable">
+            <BackLightCompensationVal id="FALSE" />
+          </BackLightCompensationEnable>
+          <BackLightCompensationProp id="SetBackLightCompensation">
+            <BackLightCompensationVal id="0" />
+          </BackLightCompensationProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </BackLightCompensation>
+        <SetAbsoluteExposure id="SetAbsoluteExposure">
+          <SetAbsoluteExposureEnable id="Enable">
+            <SetAbsoluteExposureVal id="TRUE" />
+          </SetAbsoluteExposureEnable>
+          <SetAbsoluteExposureProp id="SetAbsoluteExposure">
+            <SetAbsoluteExposureVal id="0.032" />
+          </SetAbsoluteExposureProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </SetAbsoluteExposure>
+        <SetAbsoluteGain id="SetAbsoluteGain">
+          <SetAbsoluteGainEnable id="Enable">
+            <SetAbsoluteGainVal id="TRUE" />
+          </SetAbsoluteGainEnable>
+          <SetAbsoluteGainProp id="SetAbsoluteGain">
+            <SetAbsoluteGainVal id="2" />
+          </SetAbsoluteGainProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </SetAbsoluteGain>
+        <Hue id="Hue">
+          <HueEnable id="Enable">
+            <HueEnableVal id="FALSE" />
+          </HueEnable>
+          <HueProp id="SetHue">
+            <HueVal id="0" />
+          </HueProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Hue>
+        <EnableGammaCorrection id="EnableGammaCorrection">
+          <EnableGammaCorrectionEnable id="Enable">
+            <EnableGammaCorrectionEnableVal id="FALSE" />
+          </EnableGammaCorrectionEnable>
+          <EnableGammaCorrectionProp id="SetEnableGammaCorrection">
+            <EnableGammaCorrectionVal id="FALSE" />
+          </EnableGammaCorrectionProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </EnableGammaCorrection>
+        <Gamma id="Gamma">
+          <GammaEnable id="Enable">
+            <GammaEnableVal id="FALSE" />
+          </GammaEnable>
+          <GammaProp id="SetGamma">
+            <GammaVal id="0" />
+          </GammaProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Gamma>
+        <ColorEnable id="ColorEnable">
+          <ColorEnableEnable id="Enable">
+            <ColorEnableVal id="FALSE" />
+          </ColorEnableEnable>
+          <ColorEnableProp id="SetColorEnable">
+            <ColorEnableVal id="0" />
+          </ColorEnableProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </ColorEnable>
+        <Pan id="Pan">
+          <PanEnable id="Enable">
+            <PanEnableVal id="FALSE" />
+          </PanEnable>
+          <PanProp id="SetPan">
+            <PanVal id="0" />
+          </PanProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Pan>
+        <Tilt id="Tilt">
+          <TiltEnable id="Enable">
+            <TiltEnableVal id="FALSE" />
+          </TiltEnable>
+          <TiltProp id="SetTilt">
+            <TiltVal id="0" />
+          </TiltProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Tilt>
+        <Roll id="Roll">
+          <RollEnable id="Enable">
+            <RollEnableVal id="FALSE" />
+          </RollEnable>
+          <RollProp id="SetRoll">
+            <RollVal id="0" />
+          </RollProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Roll>
+        <Zoom id="Zoom">
+          <ZoomEnable id="Enable">
+            <ZoomEnableVal id="TRUE" />
+          </ZoomEnable>
+          <ZoomProp id="SetZoom">
+            <ZoomVal id="100" />
+          </ZoomProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </Zoom>
+        <EnableLensCorrection id="EnableLensCorrection">
+          <EnableLensCorrectionEnable id="Enable">
+            <EnableLensCorrectionVal id="FALSE" />
+          </EnableLensCorrectionEnable>
+          <EnableLensCorrectionProp id="SetEnableLensCorrection">
+            <EnableLensCorrectionVal id="FALSE" />
+          </EnableLensCorrectionProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </EnableLensCorrection>
+        <ViewPort id="ViewPort">
+          <ViewPortEnable id="Enable">
+            <ViewPortVal id="FALSE" />
+          </ViewPortEnable>
+          <ViewPortProp id="SetViewPort">
+            <ViewPortVal id="FALSE" />
+          </ViewPortProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </ViewPort>
+        <FlipCameraImage id="FlipCameraImage">
+          <FlipCameraImageEnable id="Enable">
+            <FlipCameraImageVal id="TRUE" />
+          </FlipCameraImageEnable>
+          <FlipCameraImageProp id="SetFlipCameraImage">
+            <FlipCameraImageVal id="RotateNoneFlipY" />
+          </FlipCameraImageProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </FlipCameraImage>
+        <VideoFormat id="VideoFormat">
+          <VideoFormatEnable id="Enable">
+            <VideoFormatVal id="TRUE" />
+          </VideoFormatEnable>
+          <VideoFormatProp id="SetVideoFormat">
+            <VideoFormatVal id="YUY2" />
+          </VideoFormatProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </VideoFormat>
+        <FrameRate id="FrameRate">
+          <FrameRateEnable id="Enable">
+            <FrameRateVal id="TRUE" />
+          </FrameRateEnable>
+          <FrameRateProp id="SetFrameRate">
+            <FrameRateVal id="5" />
+          </FrameRateProp>
+          <flag id="flag">
+            <flagVal id="MANUAL" />
+          </flag>
+        </FrameRate>
+      </CameraImageProperties>
+    </Test>
+    <Test id="run(RunTestTracking_OnEnd.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=true;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=NULL;" />
+        <InputFile id="InputFile=NULL;" />
+        <Name id="Name=20_testtracking2;" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="run(RunTestTracking_OnLog.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=true;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=tracking.txt;" />
+        <InputFile id="InputFile=NULL;" />
+        <Name id="Name=21_testtrackinglog;" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+    <Test id="run(taken.bat); " Assembly="..\TestModules\OtherTests\TestModules.dll" Type="SystemTests.TestModules.KSystemCmd" Enable="True">
+      <Memmory_Properties id="Memmory_Properties">
+        <TrackMemoryUsage id="TrackMemoryUsage=true;  //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=1000;        //This is the memory usage in bytes" />
+        <ThresholdAction id="ThresholdAction=Warn;   //Warn,Logfile" />
+        <LogMemoryUsage id="LogMemoryUsage=true;    //This will log the memory usage over time" />
+        <SCRIPT_COMMENT id="// " />
+      </Memmory_Properties>
+      <CPU_Properties id="CPU_Properties">
+        <TrackCPUUsage id="TrackCPUUsage=true;       //Enable or Disable This Feature" />
+        <UpperLimit id="UpperLimit=50%;           //This is the CPU usage in percent" />
+        <ThresholdAction id="ThresholdAction=Warn;     //Warn,Logfile" />
+        <LogCPUUsage id="LogCPUUsage=true;         //This will log the memory usage over time" />
+        <Threading id="Threading=SYNC;          //NOT SUPPORTED YET Async or Blocking" />
+        <ThreadPriority id="ThreadPriority=Normal;    //NOT SUPPORTED YET Normal,High,Low" />
+        <SCRIPT_COMMENT id="// " />
+        <ShellExecute id="ShellExecute=true;" />
+      </CPU_Properties>
+      <Module_Properties id="Module_Properties">
+        <OutputFile id="OutputFile=sn.out;" />
+        <InputFile id="InputFile=sn.in;" />
+        <Name id="Name=22_snlog;" />
+        <ExitCode id="ExitCode=0;" />
+        <CycleCounter id="CycleCounter=Counter.txt;     //Output" />
+        <ModuleType id="ModuleType=SIMPLIFIED;                //EXTENDED or SIMPLIFIED This is the module type" />
+      </Module_Properties>
+    </Test>
+  </TestEngine>
+</KineticTestPlan>
+<!--CHANGELOG:11/22/2017 6:02:09 AM-->
+<!--CHANGELOG:11/22/2017 6:02:09 AM-->
+<!--CHANGELOG:11/22/2017 6:02:10 AM-->
+<!--CHANGELOG:11/22/2017 6:02:11 AM-->
+<!--CHANGELOG:11/22/2017 6:02:11 AM-->
+<!--CHANGELOG:11/22/2017 6:03:01 AM11/22/2017 6:01:14 AM: refreshing...
+11/22/2017 6:01:14 AM: 11/22/2017 6:01:14 AM
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:10 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+-->
+<!--CHANGELOG:11/22/2017 6:04:01 AM11/22/2017 6:01:14 AM: refreshing...
+11/22/2017 6:01:14 AM: 11/22/2017 6:01:14 AM
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:10 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:03:01 AM: saving...
+11/22/2017 6:03:54 AM: Right Click Edit on item run(Astra2BACKLASHCORRECTION.bat); 
+-->
+<!--CHANGELOG:11/22/2017 7:12:21 AM11/22/2017 6:01:14 AM: refreshing...
+11/22/2017 6:01:14 AM: 11/22/2017 6:01:14 AM
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:10 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:03:01 AM: saving...
+11/22/2017 6:03:54 AM: Right Click Edit on item run(Astra2BACKLASHCORRECTION.bat); 
+11/22/2017 6:04:01 AM: saving...
+11/22/2017 7:09:42 AM: Right Click Edit on item run(1Xzoom.bat); 
+11/22/2017 7:10:14 AM: Right Click Edit on item 0x086E
+11/22/2017 7:10:49 AM: Right Click Edit on item 0x086E
+11/22/2017 7:11:35 AM: Right Click Edit on item run(12V05A.bat); 
+11/22/2017 7:12:11 AM: Right Click Edit on item 450
+-->
+<!--CHANGELOG:11/22/2017 7:13:08 AM11/22/2017 6:01:14 AM: refreshing...
+11/22/2017 6:01:14 AM: 11/22/2017 6:01:14 AM
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:10 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:03:01 AM: saving...
+11/22/2017 6:03:54 AM: Right Click Edit on item run(Astra2BACKLASHCORRECTION.bat); 
+11/22/2017 6:04:01 AM: saving...
+11/22/2017 7:09:42 AM: Right Click Edit on item run(1Xzoom.bat); 
+11/22/2017 7:10:14 AM: Right Click Edit on item 0x086E
+11/22/2017 7:10:49 AM: Right Click Edit on item 0x086E
+11/22/2017 7:11:35 AM: Right Click Edit on item run(12V05A.bat); 
+11/22/2017 7:12:11 AM: Right Click Edit on item 450
+11/22/2017 7:12:21 AM: saving...
+-->
+<!--CHANGELOG:11/22/2017 7:13:09 AM11/22/2017 6:01:14 AM: refreshing...
+11/22/2017 6:01:14 AM: 11/22/2017 6:01:14 AM
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:09 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:10 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:02:11 AM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+11/22/2017 6:03:01 AM: saving...
+11/22/2017 6:03:54 AM: Right Click Edit on item run(Astra2BACKLASHCORRECTION.bat); 
+11/22/2017 6:04:01 AM: saving...
+11/22/2017 7:09:42 AM: Right Click Edit on item run(1Xzoom.bat); 
+11/22/2017 7:10:14 AM: Right Click Edit on item 0x086E
+11/22/2017 7:10:49 AM: Right Click Edit on item 0x086E
+11/22/2017 7:11:35 AM: Right Click Edit on item run(12V05A.bat); 
+11/22/2017 7:12:11 AM: Right Click Edit on item 450
+11/22/2017 7:12:21 AM: saving...
+11/22/2017 7:13:09 AM: saving...
+-->
+<!--CHANGELOG:11/22/2017 9:08:03 AM11/22/2017 9:06:37 AM: refreshing...
+11/22/2017 9:06:37 AM: 11/22/2017 9:06:37 AM
+11/22/2017 9:07:07 AM: Right Click Edit on item 380
+11/22/2017 9:07:19 AM: Right Click Edit on item 250
+11/22/2017 9:07:47 AM: Right Click Edit on item 25
+11/22/2017 9:07:57 AM: Right Click Edit on item 250
+-->
+<!--CHANGELOG:11/22/2017 9:08:04 AM11/22/2017 9:06:37 AM: refreshing...
+11/22/2017 9:06:37 AM: 11/22/2017 9:06:37 AM
+11/22/2017 9:07:07 AM: Right Click Edit on item 380
+11/22/2017 9:07:19 AM: Right Click Edit on item 250
+11/22/2017 9:07:47 AM: Right Click Edit on item 25
+11/22/2017 9:07:57 AM: Right Click Edit on item 250
+11/22/2017 9:08:03 AM: saving...
+-->
+<!--CHANGELOG:11/22/2017 9:11:52 AM11/22/2017 9:10:49 AM: refreshing...
+11/22/2017 9:10:49 AM: 11/22/2017 9:10:49 AM
+11/22/2017 9:11:15 AM: Right Click Edit on item -4
+11/22/2017 9:11:46 AM: Right Click Edit on item -4
+-->
+<!--CHANGELOG:11/22/2017 9:15:30 AM11/22/2017 9:12:52 AM: refreshing...
+11/22/2017 9:12:52 AM: 11/22/2017 9:12:52 AM
+11/22/2017 9:13:31 AM: Right Click Edit on item -6
+11/22/2017 9:13:45 AM: Right Click Edit on item -6
+11/22/2017 9:13:54 AM: Right Click Edit on item 128
+11/22/2017 9:14:10 AM: Right Click Edit on item 58
+11/22/2017 9:14:17 AM: Right Click Edit on item 100
+11/22/2017 9:14:30 AM: Right Click Edit on item 128
+11/22/2017 9:15:09 AM: Right Click Edit on item FALSE
+11/22/2017 9:15:24 AM: Right Click Edit on item FALSE
+-->
+<!--CHANGELOG:11/22/2017 9:15:31 AM11/22/2017 9:12:52 AM: refreshing...
+11/22/2017 9:12:52 AM: 11/22/2017 9:12:52 AM
+11/22/2017 9:13:31 AM: Right Click Edit on item -6
+11/22/2017 9:13:45 AM: Right Click Edit on item -6
+11/22/2017 9:13:54 AM: Right Click Edit on item 128
+11/22/2017 9:14:10 AM: Right Click Edit on item 58
+11/22/2017 9:14:17 AM: Right Click Edit on item 100
+11/22/2017 9:14:30 AM: Right Click Edit on item 128
+11/22/2017 9:15:09 AM: Right Click Edit on item FALSE
+11/22/2017 9:15:24 AM: Right Click Edit on item FALSE
+11/22/2017 9:15:30 AM: saving...
+-->
+<!--CHANGELOG:11/22/2017 9:17:23 AM11/22/2017 9:16:27 AM: refreshing...
+11/22/2017 9:16:27 AM: 11/22/2017 9:16:27 AM
+11/22/2017 9:16:37 AM: Right Click Edit on item 2000
+11/22/2017 9:16:52 AM: Right Click Edit on item 2000
+11/22/2017 9:17:02 AM: Right Click Edit on item 0
+11/22/2017 9:17:18 AM: Right Click Edit on item 0
+-->
+<!--CHANGELOG:11/23/2017 4:50:02 AM11/22/2017 9:24:34 AM: refreshing...
+11/22/2017 9:24:34 AM: 11/22/2017 9:24:34 AM
+-->
+<!--CHANGELOG:11/23/2017 5:06:15 AM11/23/2017 5:02:14 AM: refreshing...
+11/23/2017 5:02:14 AM: 11/23/2017 5:02:14 AM
+11/23/2017 5:03:21 AM: Right Click Edit on item Pan
+-->
+<!--CHANGELOG:2017/11/23 6:01:422017/11/23 5:55:35: refreshing...
+2017/11/23 5:55:35: 2017/11/23 5:55:35
+2017/11/23 5:59:32: Right Click Edit on item -5
+2017/11/23 5:59:40: Right Click Edit on item 0
+2017/11/23 5:59:47: Right Click Edit on item 100
+2017/11/23 5:59:53: Right Click Edit on item 4800
+2017/11/23 6:00:00: Right Click Edit on item FriendlyName
+2017/11/23 6:01:26: Right Click Edit on item 640
+2017/11/23 6:01:33: Right Click Edit on item 480
+-->
+<!--CHANGELOG:2017/11/23 6:03:142017/11/23 5:55:35: refreshing...
+2017/11/23 5:55:35: 2017/11/23 5:55:35
+2017/11/23 5:59:32: Right Click Edit on item -5
+2017/11/23 5:59:40: Right Click Edit on item 0
+2017/11/23 5:59:47: Right Click Edit on item 100
+2017/11/23 5:59:53: Right Click Edit on item 4800
+2017/11/23 6:00:00: Right Click Edit on item FriendlyName
+2017/11/23 6:01:26: Right Click Edit on item 640
+2017/11/23 6:01:33: Right Click Edit on item 480
+2017/11/23 6:01:42: saving...
+2017/11/23 6:01:51: Right Click Edit on item 480
+2017/11/23 6:02:09: Right Click Edit on item 4800
+2017/11/23 6:02:16: Right Click Edit on item 100
+2017/11/23 6:02:57: Right Click Edit on item 0
+2017/11/23 6:03:03: Right Click Edit on item -5
+-->
+<!--CHANGELOG:2017/11/23 6:05:402017/11/23 6:05:04: refreshing...
+2017/11/23 6:05:04: 2017/11/23 6:05:04
+2017/11/23 6:05:17: Right Click Edit on item 640
+2017/11/23 6:05:23: Right Click Edit on item 480
+2017/11/23 6:05:31: Right Click Edit on item Sleep(1000);
+-->
+<!--CHANGELOG:2017/11/23 6:07:382017/11/23 6:06:56: refreshing...
+2017/11/23 6:06:56: 2017/11/23 6:06:56
+2017/11/23 6:07:10: Right Click Edit on item TRUE
+2017/11/23 6:07:22: Right Click Edit on item TRUE
+-->
+<!--CHANGELOG:2017/11/23 6:10:202017/11/23 6:09:02: refreshing...
+2017/11/23 6:09:02: 2017/11/23 6:09:02
+2017/11/23 6:10:02: Right Click Edit on item MinimumLines //
+2017/11/23 6:10:12: Right Click Edit on item 50
+-->
+<!--CHANGELOG:2017/11/23 6:12:592017/11/23 6:12:13: refreshing...
+2017/11/23 6:12:13: 2017/11/23 6:12:13
+2017/11/23 6:12:35: Right Click Edit on item 150
+2017/11/23 6:12:49: Right Click Edit on item 150
+-->
+<!--CHANGELOG:2017/11/23 6:31:24-->
+<!--CHANGELOG:2017/11/23 6:31:24-->
+<!--CHANGELOG:2017/11/23 6:31:25-->
+<!--CHANGELOG:2017/11/23 6:31:25-->
+<!--CHANGELOG:2017/11/23 6:31:26-->
+<!--CHANGELOG:2017/11/23 6:31:26-->
+<!--CHANGELOG:2017/11/23 6:31:26-->
+<!--CHANGELOG:2017/11/23 6:31:26-->
+<!--CHANGELOG:2017/11/23 6:31:27-->
+<!--CHANGELOG:2017/11/23 6:31:27-->
+<!--CHANGELOG:2017/11/23 6:31:28-->
+<!--CHANGELOG:2017/11/23 6:31:28-->
+<!--CHANGELOG:2017/11/23 6:31:29-->
+<!--CHANGELOG:2017/11/23 6:31:29-->
+<!--CHANGELOG:2017/11/23 6:31:30-->
+<!--CHANGELOG:2017/11/23 6:31:34-->
+<!--CHANGELOG:2017/11/23 6:31:34-->
+<!--CHANGELOG:2017/11/23 6:31:34-->
+<!--CHANGELOG:2017/11/23 6:31:35-->
+<!--CHANGELOG:2017/11/23 6:31:35-->
+<!--CHANGELOG:2017/11/23 6:31:35-->
+<!--CHANGELOG:2017/11/23 6:31:35-->
+<!--CHANGELOG:2017/11/23 6:31:36-->
+<!--CHANGELOG:2017/11/23 6:31:36-->
+<!--CHANGELOG:2017/11/23 6:31:36-->
+<!--CHANGELOG:2017/11/23 6:31:37-->
+<!--CHANGELOG:2017/11/23 6:31:37-->
+<!--CHANGELOG:2017/11/23 6:31:40-->
+<!--CHANGELOG:2017/11/23 6:31:40-->
+<!--CHANGELOG:2017/11/23 6:31:40-->
+<!--CHANGELOG:2017/11/23 6:31:41-->
+<!--CHANGELOG:2017/11/23 6:31:41-->
+<!--CHANGELOG:2017/11/23 6:31:41-->
+<!--CHANGELOG:2017/11/23 6:31:41-->
+<!--CHANGELOG:2017/11/23 6:31:42-->
+<!--CHANGELOG:2017/11/23 6:31:42-->
+<!--CHANGELOG:2017/11/23 6:31:42-->
+<!--CHANGELOG:2017/11/23 6:31:43-->
+<!--CHANGELOG:2017/11/23 6:31:43-->
+<!--CHANGELOG:2017/11/23 6:31:47-->
+<!--CHANGELOG:2017/11/23 6:31:48-->
+<!--CHANGELOG:2017/11/23 6:31:48-->
+<!--CHANGELOG:2017/11/23 6:31:48-->
+<!--CHANGELOG:2017/11/23 6:31:49-->
+<!--CHANGELOG:2017/11/23 6:31:49-->
+<!--CHANGELOG:2017/11/23 6:31:49-->
+<!--CHANGELOG:2017/11/23 6:31:50-->
+<!--CHANGELOG:2017/11/23 6:31:50-->
+<!--CHANGELOG:2017/11/23 6:32:332017/11/23 6:13:26: refreshing...
+2017/11/23 6:13:26: 2017/11/23 6:13:26
+2017/11/23 6:31:24: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:25: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:25: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:25: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:26: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:26: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:26: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:27: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:27: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:27: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:28: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:28: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:29: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:29: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:30: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/23 6:31:34: moving test item downSleep(5000);
+2017/11/23 6:31:34: moving test item downSleep(5000);
+2017/11/23 6:31:34: moving test item downSleep(5000);
+2017/11/23 6:31:35: moving test item downSleep(5000);
+2017/11/23 6:31:35: moving test item downSleep(5000);
+2017/11/23 6:31:35: moving test item downSleep(5000);
+2017/11/23 6:31:36: moving test item downSleep(5000);
+2017/11/23 6:31:36: moving test item downSleep(5000);
+2017/11/23 6:31:36: moving test item downSleep(5000);
+2017/11/23 6:31:36: moving test item downSleep(5000);
+2017/11/23 6:31:37: moving test item downSleep(5000);
+2017/11/23 6:31:37: moving test item downSleep(5000);
+2017/11/23 6:31:40: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:40: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:40: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:41: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:41: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:41: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:42: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:42: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:42: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:42: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:43: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:43: moving test item downVCMRangeTest //4.5x ZOOM v3
+2017/11/23 6:31:48: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:48: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:48: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:48: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:49: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:49: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:49: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:50: moving test item downrun(USBcls.bat); 
+2017/11/23 6:31:51: moving test item downrun(USBcls.bat); 
+-->
+<!--CHANGELOG:2017/11/23 6:35:382017/11/23 6:35:31: refreshing...
+2017/11/23 6:35:31: 2017/11/23 6:35:31
+-->
+<!--CHANGELOG:2017/11/23 6:36:582017/11/23 6:36:07: refreshing...
+2017/11/23 6:36:07: 2017/11/23 6:36:07
+2017/11/23 6:36:11: Right Click Edit on item run(HP6612Com7_0V.bat); 
+-->
+<!--CHANGELOG:2017/11/23 6:40:102017/11/23 6:39:43: refreshing...
+2017/11/23 6:39:43: 2017/11/23 6:39:43
+2017/11/23 6:39:53: Right Click Edit on item run(HP6612Com7_0V.bat); 
+-->
+<!--CHANGELOG:2017/11/23 6:45:502017/11/23 6:40:45: refreshing...
+2017/11/23 6:40:45: 2017/11/23 6:40:45
+2017/11/23 6:40:49: Right Click Edit on item run(HP6612Com7_0V.bat); 
+-->
+<!--CHANGELOG:2017/11/23 6:45:512017/11/23 6:40:45: refreshing...
+2017/11/23 6:40:45: 2017/11/23 6:40:45
+2017/11/23 6:40:49: Right Click Edit on item run(HP6612Com7_0V.bat); 
+2017/11/23 6:45:50: saving...
+-->
+<!--CHANGELOG:2017/11/23 6:48:392017/11/23 6:48:03: refreshing...
+2017/11/23 6:48:03: 2017/11/23 6:48:03
+2017/11/23 6:48:31: Right Click Edit on item -9
+-->
+<!--CHANGELOG:2017/11/23 6:48:402017/11/23 6:48:03: refreshing...
+2017/11/23 6:48:03: 2017/11/23 6:48:03
+2017/11/23 6:48:31: Right Click Edit on item -9
+2017/11/23 6:48:39: saving...
+-->
+<!--CHANGELOG:2017/11/23 6:51:002017/11/23 6:50:40: refreshing...
+2017/11/23 6:50:40: 2017/11/23 6:50:40
+2017/11/23 6:50:52: Right Click Edit on item 30
+-->
+<!--CHANGELOG:2017/11/23 6:51:402017/11/23 6:50:40: refreshing...
+2017/11/23 6:50:40: 2017/11/23 6:50:40
+2017/11/23 6:50:52: Right Click Edit on item 30
+2017/11/23 6:51:00: saving...
+2017/11/23 6:51:17: Right Click Edit on item -9
+2017/11/23 6:51:35: Right Click Edit on item 30
+-->
+<!--CHANGELOG:2017/11/23 6:51:412017/11/23 6:50:40: refreshing...
+2017/11/23 6:50:40: 2017/11/23 6:50:40
+2017/11/23 6:50:52: Right Click Edit on item 30
+2017/11/23 6:51:00: saving...
+2017/11/23 6:51:17: Right Click Edit on item -9
+2017/11/23 6:51:35: Right Click Edit on item 30
+2017/11/23 6:51:40: saving...
+-->
+<!--CHANGELOG:2017/11/23 6:53:112017/11/23 6:52:32: refreshing...
+2017/11/23 6:52:32: 2017/11/23 6:52:32
+2017/11/23 6:52:50: Right Click Edit on item -5
+2017/11/23 6:53:06: Right Click Edit on item -5
+-->
+<!--CHANGELOG:2017/11/23 6:53:112017/11/23 6:52:32: refreshing...
+2017/11/23 6:52:32: 2017/11/23 6:52:32
+2017/11/23 6:52:50: Right Click Edit on item -5
+2017/11/23 6:53:06: Right Click Edit on item -5
+2017/11/23 6:53:11: saving...
+-->
+<!--CHANGELOG:2017/11/23 6:58:322017/11/23 6:57:13: refreshing...
+2017/11/23 6:57:13: 2017/11/23 6:57:13
+2017/11/23 6:57:20: Right Click Edit on item Sleep(5000);
+2017/11/23 6:58:07: Right Click Edit on item -7
+2017/11/23 6:58:26: Right Click Edit on item -7
+-->
+<!--CHANGELOG:2017/11/23 7:00:442017/11/23 6:59:50: refreshing...
+2017/11/23 6:59:50: 2017/11/23 6:59:50
+2017/11/23 7:00:01: Right Click Edit on item -9
+2017/11/23 7:00:17: Right Click Edit on item -9
+-->
+<!--CHANGELOG:2017/11/23 7:09:312017/11/23 7:02:47: refreshing...
+2017/11/23 7:02:47: 2017/11/23 7:02:47
+2017/11/23 7:07:09: Right Click Edit on item -8
+2017/11/23 7:07:43: Right Click Edit on item 128
+2017/11/23 7:08:53: Right Click Edit on item 4000
+2017/11/23 7:09:13: Right Click Edit on item 200
+2017/11/23 7:09:25: Right Click Edit on item 200
+-->
+<!--CHANGELOG:2017/11/23 7:11:182017/11/23 7:10:47: refreshing...
+2017/11/23 7:10:47: 2017/11/23 7:10:47
+-->
+<!--CHANGELOG:2017/11/23 7:13:172017/11/23 7:12:31: refreshing...
+2017/11/23 7:12:31: 2017/11/23 7:12:31
+2017/11/23 7:12:42: Right Click Edit on item -5
+2017/11/23 7:13:03: Right Click Edit on item 240
+2017/11/23 7:13:09: Right Click Edit on item 380
+-->
+<!--CHANGELOG:2017/11/23 7:16:492017/11/23 7:14:44: refreshing...
+2017/11/23 7:14:44: 2017/11/23 7:14:44
+2017/11/23 7:16:20: Right Click Edit on item 4500
+2017/11/23 7:16:41: Right Click Edit on item 250
+-->
+<!--CHANGELOG:2017/11/23 7:19:422017/11/23 7:18:48: refreshing...
+2017/11/23 7:18:48: 2017/11/23 7:18:48
+2017/11/23 7:18:57: Right Click Edit on item 250
+2017/11/23 7:19:30: Right Click Edit on item 780
+2017/11/23 7:19:37: Right Click Edit on item 160
+-->
+<!--CHANGELOG:2017/11/23 7:21:472017/11/23 7:21:04: refreshing...
+2017/11/23 7:21:04: 2017/11/23 7:21:04
+2017/11/23 7:21:20: Right Click Edit on item 250
+2017/11/23 7:21:41: Right Click Edit on item 200
+-->
+<!--CHANGELOG:2017/11/23 7:24:072017/11/23 7:23:03: refreshing...
+2017/11/23 7:23:03: 2017/11/23 7:23:03
+2017/11/23 7:23:10: Right Click Edit on item run(USBcls.bat); 
+2017/11/23 7:24:02: Right Click Edit on item 4000
+-->
+<!--CHANGELOG:2017/11/23 7:26:572017/11/23 7:25:22: refreshing...
+2017/11/23 7:25:22: 2017/11/23 7:25:22
+2017/11/23 7:26:02: Right Click Edit on item 4500
+2017/11/23 7:26:04: Right Click Edit on item 4500
+2017/11/23 7:26:14: Right Click Edit on item SetAbsoluteGain
+2017/11/23 7:26:52: Right Click Edit on item 130
+-->
+<!--CHANGELOG:2017/11/23 7:28:452017/11/23 7:28:12: refreshing...
+2017/11/23 7:28:12: 2017/11/23 7:28:12
+2017/11/23 7:28:27: Right Click Edit on item 380
+2017/11/23 7:28:39: Right Click Edit on item 100
+-->
+<!--CHANGELOG:2017/11/23 7:30:192017/11/23 7:29:51: refreshing...
+2017/11/23 7:29:51: 2017/11/23 7:29:51
+2017/11/23 7:30:01: Right Click Edit on item 120
+2017/11/23 7:30:14: Right Click Edit on item 4000
+-->
+<!--CHANGELOG:2017/11/23 7:36:292017/11/23 7:34:18: refreshing...
+2017/11/23 7:34:18: 2017/11/23 7:34:18
+2017/11/23 7:34:33: Right Click Edit on item 140
+2017/11/23 7:36:16: Right Click Edit on item 128
+2017/11/23 7:36:23: Right Click Edit on item 4500
+-->
+<!--CHANGELOG:2017/11/23 7:39:272017/11/23 7:39:12: refreshing...
+2017/11/23 7:39:12: 2017/11/23 7:39:12
+2017/11/23 7:39:20: Right Click Edit on item 70
+-->
+<!--CHANGELOG:2017/11/23 7:41:062017/11/23 7:40:41: refreshing...
+2017/11/23 7:40:41: 2017/11/23 7:40:41
+2017/11/23 7:40:50: Right Click Edit on item 0
+2017/11/23 7:41:02: Right Click Edit on item 4000
+-->
+<!--CHANGELOG:2017/11/23 7:42:342017/11/23 7:42:06: refreshing...
+2017/11/23 7:42:06: 2017/11/23 7:42:06
+2017/11/23 7:42:17: Right Click Edit on item 80
+2017/11/23 7:42:30: Right Click Edit on item 2000
+-->
+<!--CHANGELOG:2017/11/24 1:02:402017/11/24 1:02:03: refreshing...
+2017/11/24 1:02:03: 2017/11/24 1:02:03
+2017/11/24 1:02:26: Right Click Edit on item run(Re_Enumerate.bat); 
+-->
+<!--CHANGELOG:2017/11/24 1:02:412017/11/24 1:02:03: refreshing...
+2017/11/24 1:02:03: 2017/11/24 1:02:03
+2017/11/24 1:02:26: Right Click Edit on item run(Re_Enumerate.bat); 
+2017/11/24 1:02:40: saving...
+-->
+<!--CHANGELOG:2017/11/24 1:07:22-->
+<!--CHANGELOG:2017/11/24 1:07:23-->
+<!--CHANGELOG:2017/11/24 1:07:24-->
+<!--CHANGELOG:2017/11/24 1:07:24-->
+<!--CHANGELOG:2017/11/24 1:07:302017/11/24 1:04:46: refreshing...
+2017/11/24 1:04:46: 2017/11/24 1:04:46
+2017/11/24 1:07:22: moving test item UpMessageBox(外接麦克风LED是否滅);
+2017/11/24 1:07:23: moving test item UpMessageBox(外接麦克风LED是否滅);
+2017/11/24 1:07:24: moving test item UpMessageBox(外接麦克风LED是否滅);
+2017/11/24 1:07:24: moving test item UpMessageBox(外接麦克风LED是否滅);
+-->
+<!--CHANGELOG:2017/11/24 3:21:032017/11/24 3:20:13: refreshing...
+2017/11/24 3:20:13: 2017/11/24 3:20:13
+-->
+<!--CHANGELOG:2017/11/24 3:21:042017/11/24 3:20:13: refreshing...
+2017/11/24 3:20:13: 2017/11/24 3:20:13
+2017/11/24 3:21:04: saving...
+-->
+<!--CHANGELOG:2017/11/24 6:02:172017/11/24 6:01:35: refreshing...
+2017/11/24 6:01:35: 2017/11/24 6:01:35
+-->
+<!--CHANGELOG:2017/11/25 6:14:10-->
+<!--CHANGELOG:2017/11/25 6:14:11-->
+<!--CHANGELOG:2017/11/25 6:14:13-->
+<!--CHANGELOG:2017/11/25 6:14:152017/11/25 6:13:21: refreshing...
+2017/11/25 6:13:21: 2017/11/25 6:13:21
+2017/11/25 6:14:10: moving test item UpVCMRangeTest //4.5x ZOOM v3
+2017/11/25 6:14:11: moving test item UpVCMRangeTest //4.5x ZOOM v3
+2017/11/25 6:14:13: moving test item downVCMRangeTest //1.0x ZOOM v3
+-->
+<!--CHANGELOG:2017/11/25 6:14:162017/11/25 6:13:21: refreshing...
+2017/11/25 6:13:21: 2017/11/25 6:13:21
+2017/11/25 6:14:10: moving test item UpVCMRangeTest //4.5x ZOOM v3
+2017/11/25 6:14:11: moving test item UpVCMRangeTest //4.5x ZOOM v3
+2017/11/25 6:14:13: moving test item downVCMRangeTest //1.0x ZOOM v3
+2017/11/25 6:14:15: saving...
+-->
+<!--CHANGELOG:2017/11/25 6:53:372017/11/25 6:52:34: refreshing...
+2017/11/25 6:52:34: 2017/11/25 6:52:34
+2017/11/25 6:53:21: Right Click Edit on item -5
+-->
+<!--CHANGELOG:2017/11/25 6:53:382017/11/25 6:52:34: refreshing...
+2017/11/25 6:52:34: 2017/11/25 6:52:34
+2017/11/25 6:53:21: Right Click Edit on item -5
+2017/11/25 6:53:37: saving...
+-->
+<!--CHANGELOG:2017/11/25 6:57:272017/11/25 6:54:56: refreshing...
+2017/11/25 6:54:56: 2017/11/25 6:54:56
+2017/11/25 6:56:18: Right Click Edit on item 220
+2017/11/25 6:56:26: Right Click Edit on item 130
+2017/11/25 6:56:40: Right Click Edit on item -6
+-->
+<!--CHANGELOG:2017/11/25 6:58:162017/11/25 6:54:56: refreshing...
+2017/11/25 6:54:56: 2017/11/25 6:54:56
+2017/11/25 6:56:18: Right Click Edit on item 220
+2017/11/25 6:56:26: Right Click Edit on item 130
+2017/11/25 6:56:40: Right Click Edit on item -6
+2017/11/25 6:57:27: saving...
+-->
+<!--CHANGELOG:2017/11/25 6:58:172017/11/25 6:54:56: refreshing...
+2017/11/25 6:54:56: 2017/11/25 6:54:56
+2017/11/25 6:56:18: Right Click Edit on item 220
+2017/11/25 6:56:26: Right Click Edit on item 130
+2017/11/25 6:56:40: Right Click Edit on item -6
+2017/11/25 6:57:27: saving...
+2017/11/25 6:58:16: saving...
+-->
+<!--CHANGELOG:2017/11/25 7:00:112017/11/25 6:59:45: refreshing...
+2017/11/25 6:59:45: 2017/11/25 6:59:45
+2017/11/25 7:00:07: Right Click Edit on item -9
+-->
+<!--CHANGELOG:2017/11/25 7:00:122017/11/25 6:59:45: refreshing...
+2017/11/25 6:59:45: 2017/11/25 6:59:45
+2017/11/25 7:00:07: Right Click Edit on item -9
+2017/11/25 7:00:12: saving...
+-->
+<!--CHANGELOG:2017/11/25 7:05:262017/11/25 7:01:43: refreshing...
+2017/11/25 7:01:43: 2017/11/25 7:01:43
+2017/11/25 7:04:21: Right Click Edit on item 4000
+-->
+<!--CHANGELOG:2017/11/25 7:10:072017/11/25 7:09:35: refreshing...
+2017/11/25 7:09:35: 2017/11/25 7:09:35
+2017/11/25 7:09:58: Right Click Edit on item 128
+-->
+<!--CHANGELOG:2017/11/25 7:16:502017/11/25 7:16:23: refreshing...
+2017/11/25 7:16:23: 2017/11/25 7:16:23
+2017/11/25 7:16:45: Right Click Edit on item 140
+-->
+<!--CHANGELOG:2017/11/25 7:16:512017/11/25 7:16:23: refreshing...
+2017/11/25 7:16:23: 2017/11/25 7:16:23
+2017/11/25 7:16:45: Right Click Edit on item 140
+2017/11/25 7:16:50: saving...
+-->
+<!--CHANGELOG:2017/11/28 0:16:33-->
+<!--CHANGELOG:2017/11/28 0:16:33-->
+<!--CHANGELOG:2017/11/28 0:16:34-->
+<!--CHANGELOG:2017/11/28 0:16:362017/11/28 0:16:19: refreshing...
+2017/11/28 0:16:19: 2017/11/28 0:16:19
+2017/11/28 0:16:33: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:33: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:34: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+-->
+<!--CHANGELOG:2017/11/28 0:20:532017/11/28 0:16:19: refreshing...
+2017/11/28 0:16:19: 2017/11/28 0:16:19
+2017/11/28 0:16:33: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:33: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:34: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:36: saving...
+2017/11/28 0:16:53: Right Click Edit on item VideoFormat
+2017/11/28 0:17:01: Right Click Edit on item 1
+2017/11/28 0:20:29: Right Click Edit on item 180
+2017/11/28 0:20:48: Right Click Edit on item 30
+-->
+<!--CHANGELOG:2017/11/28 0:20:542017/11/28 0:16:19: refreshing...
+2017/11/28 0:16:19: 2017/11/28 0:16:19
+2017/11/28 0:16:33: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:33: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:34: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:16:36: saving...
+2017/11/28 0:16:53: Right Click Edit on item VideoFormat
+2017/11/28 0:17:01: Right Click Edit on item 1
+2017/11/28 0:20:29: Right Click Edit on item 180
+2017/11/28 0:20:48: Right Click Edit on item 30
+2017/11/28 0:20:53: saving...
+-->
+<!--CHANGELOG:2017/11/28 0:22:372017/11/28 0:22:08: refreshing...
+2017/11/28 0:22:08: 2017/11/28 0:22:08
+2017/11/28 0:22:29: Right Click Edit on item 100
+-->
+<!--CHANGELOG:2017/11/28 0:22:392017/11/28 0:22:08: refreshing...
+2017/11/28 0:22:08: 2017/11/28 0:22:08
+2017/11/28 0:22:29: Right Click Edit on item 100
+2017/11/28 0:22:38: saving...
+-->
+<!--CHANGELOG:2017/11/28 0:31:31-->
+<!--CHANGELOG:2017/11/28 0:31:33-->
+<!--CHANGELOG:2017/11/28 0:31:34-->
+<!--CHANGELOG:2017/11/28 0:31:53-->
+<!--CHANGELOG:2017/11/28 0:31:53-->
+<!--CHANGELOG:2017/11/28 0:31:54-->
+<!--CHANGELOG:2017/11/28 0:31:54-->
+<!--CHANGELOG:2017/11/28 0:31:55-->
+<!--CHANGELOG:2017/11/28 0:32:06-->
+<!--CHANGELOG:2017/11/28 0:32:07-->
+<!--CHANGELOG:2017/11/28 0:32:07-->
+<!--CHANGELOG:2017/11/28 0:32:08-->
+<!--CHANGELOG:2017/11/28 0:32:08-->
+<!--CHANGELOG:2017/11/28 0:32:132017/11/28 0:31:08: refreshing...
+2017/11/28 0:31:08: 2017/11/28 0:31:08
+2017/11/28 0:31:31: moving test item UpSleep(3000);
+2017/11/28 0:31:33: moving test item UpSleep(3000);
+2017/11/28 0:31:34: moving test item UpSleep(3000);
+2017/11/28 0:31:53: moving test item Uprun(Re_Enumerate.bat); 
+2017/11/28 0:31:54: moving test item Uprun(Re_Enumerate.bat); 
+2017/11/28 0:31:54: moving test item Uprun(Re_Enumerate.bat); 
+2017/11/28 0:31:54: moving test item Uprun(Re_Enumerate.bat); 
+2017/11/28 0:31:55: moving test item Uprun(Re_Enumerate.bat); 
+2017/11/28 0:32:07: moving test item Uprun(GoIQDefault.bat); 
+2017/11/28 0:32:07: moving test item Uprun(GoIQDefault.bat); 
+2017/11/28 0:32:08: moving test item Uprun(GoIQDefault.bat); 
+2017/11/28 0:32:08: moving test item Uprun(GoIQDefault.bat); 
+2017/11/28 0:32:09: moving test item Uprun(GoIQDefault.bat); 
+-->
+<!--CHANGELOG:2017/11/28 0:40:262017/11/28 0:38:32: refreshing...
+2017/11/28 0:38:32: 2017/11/28 0:38:32
+2017/11/28 0:39:52: Right Click Edit on item 1
+2017/11/28 0:40:10: Right Click Edit on item AFTER
+-->
+<!--CHANGELOG:2017/11/28 0:40:272017/11/28 0:38:32: refreshing...
+2017/11/28 0:38:32: 2017/11/28 0:38:32
+2017/11/28 0:39:52: Right Click Edit on item 1
+2017/11/28 0:40:10: Right Click Edit on item AFTER
+2017/11/28 0:40:26: saving...
+-->
+<!--CHANGELOG:2017/11/28 0:42:582017/11/28 0:41:02: refreshing...
+2017/11/28 0:41:02: 2017/11/28 0:41:02
+2017/11/28 0:41:15: Right Click Edit on item EnableGammaCorrection
+2017/11/28 0:41:24: Right Click Edit on item Before
+2017/11/28 0:42:11: Right Click Edit on item 0
+2017/11/28 0:42:18: Right Click Edit on item 0
+2017/11/28 0:42:53: Right Click Edit on item -6
+-->
+<!--CHANGELOG:2017/11/28 0:45:422017/11/28 0:45:07: refreshing...
+2017/11/28 0:45:07: 2017/11/28 0:45:07
+2017/11/28 0:45:11: Right Click Edit on item Input_MessageBox(please enter 3 numbers,please message here,***);
+2017/11/28 0:45:19: Right Click Edit on item 24
+2017/11/28 0:45:29: Right Click Edit on item 25
+2017/11/28 0:45:37: Right Click Edit on item 1
+-->
+<!--CHANGELOG:2017/11/28 4:06:172017/11/28 4:01:57: refreshing...
+2017/11/28 4:01:57: 2017/11/28 4:01:57
+2017/11/28 4:02:07: Right Click Edit on item VCMRangeTest //4.5x ZOOM v3
+2017/11/28 4:02:11: Right Click Edit on item VCMRangeTest //1.0x ZOOM v3
+2017/11/28 4:02:23: Right Click Edit on item VCMRangeTest //4.5x ZOOM v3
+-->
+<!--CHANGELOG:2017/11/28 5:16:402017/11/28 5:16:28: refreshing...
+2017/11/28 5:16:28: 2017/11/28 5:16:28
+-->
+<!--CHANGELOG:2017/11/28 5:18:482017/11/28 5:17:48: refreshing...
+2017/11/28 5:17:48: 2017/11/28 5:17:48
+2017/11/28 5:18:22: Right Click Edit on item 128
+2017/11/28 5:18:29: Right Click Edit on item 128
+-->
+<!--CHANGELOG:2017/11/28 5:21:362017/11/28 5:19:58: refreshing...
+2017/11/28 5:19:58: 2017/11/28 5:19:58
+2017/11/28 5:20:58: Right Click Edit on item 150
+2017/11/28 5:21:16: Right Click Edit on item 100
+2017/11/28 5:21:30: Right Click Edit on item 128
+-->
+<!--CHANGELOG:2017/11/28 5:23:142017/11/28 5:22:41: refreshing...
+2017/11/28 5:22:41: 2017/11/28 5:22:41
+2017/11/28 5:23:09: Right Click Edit on item -7
+-->
+<!--CHANGELOG:2017/11/28 5:24:482017/11/28 5:24:12: refreshing...
+2017/11/28 5:24:12: 2017/11/28 5:24:12
+2017/11/28 5:24:18: Right Click Edit on item VCMRangeSettings
+2017/11/28 5:24:22: Right Click Edit on item -8
+2017/11/28 5:24:38: Right Click Edit on item 70
+-->
+<!--CHANGELOG:2017/11/28 5:25:592017/11/28 5:25:40: refreshing...
+2017/11/28 5:25:40: 2017/11/28 5:25:40
+2017/11/28 5:25:49: Right Click Edit on item -6
+2017/11/28 5:25:55: Right Click Edit on item 200
+-->
+<!--CHANGELOG:2017/11/28 5:30:39-->
+<!--CHANGELOG:2017/11/28 5:30:40-->
+<!--CHANGELOG:2017/11/28 5:30:422017/11/28 5:30:20: refreshing...
+2017/11/28 5:30:20: 2017/11/28 5:30:20
+2017/11/28 5:30:39: moving test item UpVCMRangeTest //4.5x ZOOM v3
+2017/11/28 5:30:41: moving test item UpVCMRangeTest //4.5x ZOOM v3
+-->
+<!--CHANGELOG:2017/11/28 5:33:332017/11/28 5:33:12: refreshing...
+2017/11/28 5:33:12: 2017/11/28 5:33:12
+2017/11/28 5:33:29: Right Click Edit on item -8
+-->
+<!--CHANGELOG:2017/11/28 5:35:202017/11/28 5:34:51: refreshing...
+2017/11/28 5:34:51: 2017/11/28 5:34:51
+2017/11/28 5:35:13: Right Click Edit on item 250
+-->
+<!--CHANGELOG:2017/11/28 5:35:212017/11/28 5:34:51: refreshing...
+2017/11/28 5:34:51: 2017/11/28 5:34:51
+2017/11/28 5:35:13: Right Click Edit on item 250
+2017/11/28 5:35:21: saving...
+-->
+<!--CHANGELOG:2017/12/28 11:04:452017/12/28 11:04:07: refreshing...
+2017/12/28 11:04:07: 2017/12/28 11:04:07
+-->
+<!--CHANGELOG:2017/12/28 11:12:112017/12/28 11:10:54: refreshing...
+2017/12/28 11:10:54: 2017/12/28 11:10:54
+2017/12/28 11:11:11: Right Click Edit on item -7
+2017/12/28 11:11:21: Right Click Edit on item 200
+2017/12/28 11:11:26: Right Click Edit on item 200
+2017/12/28 11:11:34: Right Click Edit on item 100
+2017/12/28 11:11:54: Right Click Edit on item 200
+-->
+<!--CHANGELOG:2017/12/28 11:12:132017/12/28 11:10:54: refreshing...
+2017/12/28 11:10:54: 2017/12/28 11:10:54
+2017/12/28 11:11:11: Right Click Edit on item -7
+2017/12/28 11:11:21: Right Click Edit on item 200
+2017/12/28 11:11:26: Right Click Edit on item 200
+2017/12/28 11:11:34: Right Click Edit on item 100
+2017/12/28 11:11:54: Right Click Edit on item 200
+2017/12/28 11:12:11: saving...
+-->
+<!--CHANGELOG:2017/12/28 11:14:402017/12/28 11:13:26: refreshing...
+2017/12/28 11:13:26: 2017/12/28 11:13:26
+-->
+<!--CHANGELOG:2017/12/28 11:18:062017/12/28 11:16:40: refreshing...
+2017/12/28 11:16:40: 2017/12/28 11:16:40
+2017/12/28 11:17:33: moving test item UpCameraImageProperties
+2017/12/28 11:17:33: moving test item UpCameraImageProperties
+2017/12/28 11:17:37: moving test item UpCameraImageProperties
+2017/12/28 11:17:38: moving test item downCameraImageProperties
+2017/12/28 11:17:39: moving test item UpCameraImageProperties
+2017/12/28 11:17:39: moving test item UpCameraImageProperties
+2017/12/28 11:18:01: Right Click Edit on item 477
+-->
+<!--CHANGELOG:2017/12/28 11:18:072017/12/28 11:16:40: refreshing...
+2017/12/28 11:16:40: 2017/12/28 11:16:40
+2017/12/28 11:17:33: moving test item UpCameraImageProperties
+2017/12/28 11:17:33: moving test item UpCameraImageProperties
+2017/12/28 11:17:37: moving test item UpCameraImageProperties
+2017/12/28 11:17:38: moving test item downCameraImageProperties
+2017/12/28 11:17:39: moving test item UpCameraImageProperties
+2017/12/28 11:17:39: moving test item UpCameraImageProperties
+2017/12/28 11:18:01: Right Click Edit on item 477
+2017/12/28 11:18:06: saving...
+-->
+<!--CHANGELOG:1/5/2018 2:45:17 PM1/5/2018 2:44:06 PM: refreshing...
+1/5/2018 2:44:06 PM: 1/5/2018 2:44:06 PM
+-->
+<!--CHANGELOG:1/5/2018 2:45:18 PM1/5/2018 2:44:06 PM: refreshing...
+1/5/2018 2:44:06 PM: 1/5/2018 2:44:06 PM
+1/5/2018 2:45:17 PM: saving...
+-->
+<!--CHANGELOG:1/5/2018 2:50:30 PM-->
+<!--CHANGELOG:1/5/2018 2:50:30 PM-->
+<!--CHANGELOG:1/5/2018 2:50:40 PM-->
+<!--CHANGELOG:1/5/2018 2:50:41 PM-->
+<!--CHANGELOG:1/5/2018 2:50:41 PM-->
+<!--CHANGELOG:1/5/2018 2:50:41 PM-->
+<!--CHANGELOG:1/5/2018 2:50:41 PM-->
+<!--CHANGELOG:1/5/2018 2:50:42 PM-->
+<!--CHANGELOG:1/5/2018 2:50:42 PM-->
+<!--CHANGELOG:1/5/2018 2:50:44 PM-->
+<!--CHANGELOG:1/5/2018 2:52:07 PM1/5/2018 2:50:16 PM: refreshing...
+1/5/2018 2:50:16 PM: 1/5/2018 2:50:16 PM
+1/5/2018 2:50:24 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+1/5/2018 2:50:30 PM: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+1/5/2018 2:50:31 PM: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:44 PM: moving test item downSleep(9000);
+-->
+<!--CHANGELOG:1/5/2018 2:52:08 PM1/5/2018 2:50:16 PM: refreshing...
+1/5/2018 2:50:16 PM: 1/5/2018 2:50:16 PM
+1/5/2018 2:50:24 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+1/5/2018 2:50:30 PM: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+1/5/2018 2:50:31 PM: moving test item UpInput_MessageBox(please enter 3 numbers,please message here,***);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:41 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:42 PM: moving test item UpSleep(9000);
+1/5/2018 2:50:44 PM: moving test item downSleep(9000);
+1/5/2018 2:52:07 PM: saving...
+-->
+<!--CHANGELOG:1/5/2018 2:57:41 PM-->
+<!--CHANGELOG:1/5/2018 2:57:42 PM-->
+<!--CHANGELOG:1/5/2018 2:57:42 PM-->
+<!--CHANGELOG:1/5/2018 2:57:42 PM-->
+<!--CHANGELOG:1/5/2018 2:57:43 PM-->
+<!--CHANGELOG:1/5/2018 2:57:43 PM-->
+<!--CHANGELOG:1/5/2018 2:57:43 PM-->
+<!--CHANGELOG:1/5/2018 2:57:45 PM-->
+<!--CHANGELOG:1/5/2018 2:57:46 PM-->
+<!--CHANGELOG:1/5/2018 3:12:38 PM1/5/2018 3:09:49 PM: refreshing...
+1/5/2018 3:09:49 PM: 1/5/2018 3:09:49 PM
+-->
+<!--CHANGELOG:1/5/2018 5:08:28 PM1/5/2018 5:07:14 PM: refreshing...
+1/5/2018 5:07:14 PM: 1/5/2018 5:07:14 PM
+-->
+<!--CHANGELOG:1/5/2018 5:08:29 PM1/5/2018 5:07:14 PM: refreshing...
+1/5/2018 5:07:14 PM: 1/5/2018 5:07:14 PM
+1/5/2018 5:08:28 PM: saving...
+-->
+<!--CHANGELOG:1/5/2018 5:09:00 PM1/5/2018 5:08:37 PM: refreshing...
+1/5/2018 5:08:37 PM: 1/5/2018 5:08:37 PM
+-->
+<!--CHANGELOG:1/5/2018 5:09:02 PM1/5/2018 5:08:37 PM: refreshing...
+1/5/2018 5:08:37 PM: 1/5/2018 5:08:37 PM
+1/5/2018 5:09:01 PM: saving...
+-->
+<!--CHANGELOG:1/5/2018 5:29:59 PM1/5/2018 5:29:06 PM: refreshing...
+1/5/2018 5:29:06 PM: 1/5/2018 5:29:06 PM
+-->
+<!--CHANGELOG:1/5/2018 5:30:01 PM1/5/2018 5:29:06 PM: refreshing...
+1/5/2018 5:29:06 PM: 1/5/2018 5:29:06 PM
+1/5/2018 5:29:59 PM: saving...
+-->
+<!--CHANGELOG:1/5/2018 2:54:03 PM1/5/2018 2:53:22 PM: refreshing...
+1/5/2018 2:53:22 PM: 1/5/2018 2:53:22 PM
+-->
+<!--CHANGELOG:1/5/2018 2:54:04 PM1/5/2018 2:53:22 PM: refreshing...
+1/5/2018 2:53:22 PM: 1/5/2018 2:53:22 PM
+1/5/2018 2:54:03 PM: saving...
+-->
+<!--CHANGELOG:1/5/2018 3:03:37 PM1/5/2018 3:02:51 PM: refreshing...
+1/5/2018 3:02:51 PM: 1/5/2018 3:02:51 PM
+-->
+<!--CHANGELOG:1/13/2018 12:37:07 PM1/13/2018 12:36:28 PM: refreshing...
+1/13/2018 12:36:28 PM: 1/13/2018 12:36:28 PM
+1/13/2018 12:36:54 PM: Right Click Edit on item 480
+-->
+<!--CHANGELOG:1/13/2018 12:37:09 PM1/13/2018 12:36:28 PM: refreshing...
+1/13/2018 12:36:28 PM: 1/13/2018 12:36:28 PM
+1/13/2018 12:36:54 PM: Right Click Edit on item 480
+1/13/2018 12:37:08 PM: saving...
+-->
+<!--CHANGELOG:1/13/2018 12:37:10 PM1/13/2018 12:36:28 PM: refreshing...
+1/13/2018 12:36:28 PM: 1/13/2018 12:36:28 PM
+1/13/2018 12:36:54 PM: Right Click Edit on item 480
+1/13/2018 12:37:08 PM: saving...
+1/13/2018 12:37:09 PM: saving...
+-->
+<!--CHANGELOG:1/13/2018 1:19:36 PM1/13/2018 1:19:14 PM: refreshing...
+1/13/2018 1:19:14 PM: 1/13/2018 1:19:14 PM
+1/13/2018 1:19:30 PM: Right Click Edit on item 240
+-->
+<!--CHANGELOG:1/13/2018 1:19:37 PM1/13/2018 1:19:14 PM: refreshing...
+1/13/2018 1:19:14 PM: 1/13/2018 1:19:14 PM
+1/13/2018 1:19:30 PM: Right Click Edit on item 240
+1/13/2018 1:19:36 PM: saving...
+-->
+<!--CHANGELOG:1/13/2018 1:46:42 PM1/13/2018 1:45:18 PM: refreshing...
+1/13/2018 1:45:18 PM: 1/13/2018 1:45:18 PM
+-->
+<!--CHANGELOG:1/13/2018 1:46:45 PM1/13/2018 1:45:18 PM: refreshing...
+1/13/2018 1:45:18 PM: 1/13/2018 1:45:18 PM
+1/13/2018 1:46:42 PM: saving...
+-->
+<!--CHANGELOG:1/13/2018 1:47:15 PM1/13/2018 1:47:03 PM: refreshing...
+1/13/2018 1:47:03 PM: 1/13/2018 1:47:03 PM
+-->
+<!--CHANGELOG:1/13/2018 1:56:11 PM1/13/2018 1:55:39 PM: refreshing...
+1/13/2018 1:55:39 PM: 1/13/2018 1:55:39 PM
+-->
+<!--CHANGELOG:1/13/2018 1:56:12 PM1/13/2018 1:55:39 PM: refreshing...
+1/13/2018 1:55:39 PM: 1/13/2018 1:55:39 PM
+1/13/2018 1:56:11 PM: saving...
+-->
+<!--CHANGELOG:1/13/2018 2:25:11 PM1/13/2018 2:24:51 PM: refreshing...
+1/13/2018 2:24:51 PM: 1/13/2018 2:24:51 PM
+-->
+<!--CHANGELOG:1/13/2018 2:25:12 PM1/13/2018 2:24:51 PM: refreshing...
+1/13/2018 2:24:51 PM: 1/13/2018 2:24:51 PM
+1/13/2018 2:25:11 PM: saving...
+-->
+<!--CHANGELOG:1/13/2018 2:25:13 PM1/13/2018 2:24:51 PM: refreshing...
+1/13/2018 2:24:51 PM: 1/13/2018 2:24:51 PM
+1/13/2018 2:25:11 PM: saving...
+1/13/2018 2:25:12 PM: saving...
+-->
+<!--CHANGELOG:1/15/2018 10:30:51 AM1/15/2018 10:30:24 AM: refreshing...
+1/15/2018 10:30:24 AM: 1/15/2018 10:30:24 AM
+-->
+<!--CHANGELOG:1/15/2018 10:30:52 AM1/15/2018 10:30:24 AM: refreshing...
+1/15/2018 10:30:24 AM: 1/15/2018 10:30:24 AM
+1/15/2018 10:30:51 AM: saving...
+-->
+<!--CHANGELOG:1/15/2018 10:40:09 AM1/15/2018 10:39:38 AM: refreshing...
+1/15/2018 10:39:38 AM: 1/15/2018 10:39:38 AM
+-->
+<!--CHANGELOG:1/15/2018 10:40:10 AM1/15/2018 10:39:38 AM: refreshing...
+1/15/2018 10:39:38 AM: 1/15/2018 10:39:38 AM
+1/15/2018 10:40:09 AM: saving...
+-->
+<!--CHANGELOG:1/15/2018 12:19:18 PM1/15/2018 12:18:27 PM: refreshing...
+1/15/2018 12:18:27 PM: 1/15/2018 12:18:27 PM
+-->
+<!--CHANGELOG:1/16/2018 5:44:55 AM1/16/2018 5:44:04 AM: refreshing...
+1/16/2018 5:44:04 AM: 1/16/2018 5:44:04 AM
+-->
+<!--CHANGELOG:1/17/2018 12:01:02 PM1/17/2018 12:00:08 PM: refreshing...
+1/17/2018 12:00:08 PM: 1/17/2018 12:00:08 PM
+-->
+<!--CHANGELOG:1/17/2018 3:27:40 PM1/17/2018 3:27:17 PM: refreshing...
+1/17/2018 3:27:17 PM: 1/17/2018 3:27:17 PM
+-->
+<!--CHANGELOG:1/17/2018 3:27:41 PM1/17/2018 3:27:17 PM: refreshing...
+1/17/2018 3:27:17 PM: 1/17/2018 3:27:17 PM
+1/17/2018 3:27:40 PM: saving...
+-->
+<!--CHANGELOG:1/18/2018 12:31:10 PM1/18/2018 12:30:13 PM: refreshing...
+1/18/2018 12:30:13 PM: 1/18/2018 12:30:13 PM
+-->
+<!--CHANGELOG:1/18/2018 12:31:58 PM1/18/2018 12:30:13 PM: refreshing...
+1/18/2018 12:30:13 PM: 1/18/2018 12:30:13 PM
+1/18/2018 12:31:10 PM: saving...
+-->
+<!--CHANGELOG:1/18/2018 12:31:59 PM1/18/2018 12:30:13 PM: refreshing...
+1/18/2018 12:30:13 PM: 1/18/2018 12:30:13 PM
+1/18/2018 12:31:10 PM: saving...
+1/18/2018 12:31:58 PM: saving...
+-->
+<!--CHANGELOG:1/18/2018 12:45:15 PM1/18/2018 12:44:53 PM: refreshing...
+1/18/2018 12:44:53 PM: 1/18/2018 12:44:53 PM
+-->
+<!--CHANGELOG:1/18/2018 12:45:17 PM1/18/2018 12:44:53 PM: refreshing...
+1/18/2018 12:44:53 PM: 1/18/2018 12:44:53 PM
+1/18/2018 12:45:15 PM: saving...
+-->
+<!--CHANGELOG:1/18/2018 12:53:52 PM1/18/2018 12:53:31 PM: refreshing...
+1/18/2018 12:53:31 PM: 1/18/2018 12:53:31 PM
+-->
+<!--CHANGELOG:1/18/2018 12:53:53 PM1/18/2018 12:53:31 PM: refreshing...
+1/18/2018 12:53:31 PM: 1/18/2018 12:53:31 PM
+1/18/2018 12:53:52 PM: saving...
+-->
+<!--CHANGELOG:1/18/2018 2:37:07 PM1/18/2018 2:36:34 PM: refreshing...
+1/18/2018 2:36:34 PM: 1/18/2018 2:36:34 PM
+-->
+<!--CHANGELOG:1/18/2018 2:37:08 PM1/18/2018 2:36:34 PM: refreshing...
+1/18/2018 2:36:34 PM: 1/18/2018 2:36:34 PM
+1/18/2018 2:37:07 PM: saving...
+-->
+<!--CHANGELOG:3/10/2018 2:43:16 PM3/10/2018 2:41:44 PM: refreshing...
+3/10/2018 2:41:44 PM: 3/10/2018 2:41:44 PM
+-->
+<!--CHANGELOG:3/10/2018 2:43:17 PM3/10/2018 2:41:44 PM: refreshing...
+3/10/2018 2:41:44 PM: 3/10/2018 2:41:44 PM
+3/10/2018 2:43:16 PM: saving...
+-->
+<!--CHANGELOG:3/10/2018 2:59:28 PM3/10/2018 2:59:00 PM: refreshing...
+3/10/2018 2:59:00 PM: 3/10/2018 2:59:00 PM
+-->
+<!--CHANGELOG:3/10/2018 2:59:29 PM3/10/2018 2:59:00 PM: refreshing...
+3/10/2018 2:59:00 PM: 3/10/2018 2:59:00 PM
+3/10/2018 2:59:28 PM: saving...
+-->
+<!--CHANGELOG:3/14/2018 12:29:37 PM3/14/2018 12:28:21 PM: refreshing...
+3/14/2018 12:28:21 PM: 3/14/2018 12:28:21 PM
+3/14/2018 12:29:16 PM: Right Click Edit on item 3
+-->
+<!--CHANGELOG:3/14/2018 12:30:34 PM3/14/2018 12:28:21 PM: refreshing...
+3/14/2018 12:28:21 PM: 3/14/2018 12:28:21 PM
+3/14/2018 12:29:16 PM: Right Click Edit on item 3
+3/14/2018 12:29:37 PM: saving...
+3/14/2018 12:29:48 PM: Right Click Edit on item 1
+3/14/2018 12:30:12 PM: Right Click Edit on item 6
+-->
+<!--CHANGELOG:3/14/2018 12:30:39 PM3/14/2018 12:28:21 PM: refreshing...
+3/14/2018 12:28:21 PM: 3/14/2018 12:28:21 PM
+3/14/2018 12:29:16 PM: Right Click Edit on item 3
+3/14/2018 12:29:37 PM: saving...
+3/14/2018 12:29:48 PM: Right Click Edit on item 1
+3/14/2018 12:30:12 PM: Right Click Edit on item 6
+3/14/2018 12:30:34 PM: saving...
+-->
+<!--CHANGELOG:3/14/2018 5:02:15 PM3/14/2018 5:01:15 PM: refreshing...
+3/14/2018 5:01:15 PM: 3/14/2018 5:01:15 PM
+-->
+<!--CHANGELOG:3/19/2018 10:21:17 AM-->
+<!--CHANGELOG:3/19/2018 10:21:17 AM-->
+<!--CHANGELOG:3/19/2018 10:21:18 AM-->
+<!--CHANGELOG:3/19/2018 10:21:18 AM-->
+<!--CHANGELOG:3/19/2018 10:21:19 AM-->
+<!--CHANGELOG:3/19/2018 10:21:19 AM-->
+<!--CHANGELOG:3/19/2018 10:21:20 AM-->
+<!--CHANGELOG:3/19/2018 10:21:31 AM-->
+<!--CHANGELOG:3/19/2018 10:21:31 AM-->
+<!--CHANGELOG:3/19/2018 10:21:32 AM-->
+<!--CHANGELOG:3/19/2018 10:21:32 AM-->
+<!--CHANGELOG:3/19/2018 10:21:32 AM-->
+<!--CHANGELOG:3/19/2018 10:21:33 AM-->
+<!--CHANGELOG:3/19/2018 10:21:33 AM-->
+<!--CHANGELOG:3/19/2018 10:21:42 AM-->
+<!--CHANGELOG:3/19/2018 10:21:42 AM-->
+<!--CHANGELOG:3/19/2018 10:21:43 AM-->
+<!--CHANGELOG:3/19/2018 10:21:43 AM-->
+<!--CHANGELOG:3/19/2018 10:21:43 AM-->
+<!--CHANGELOG:3/19/2018 10:21:44 AM-->
+<!--CHANGELOG:3/19/2018 10:21:44 AM-->
+<!--CHANGELOG:3/19/2018 10:22:33 AM3/19/2018 10:19:50 AM: refreshing...
+3/19/2018 10:19:50 AM: 3/19/2018 10:19:50 AM
+3/19/2018 10:21:17 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:17 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:18 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:18 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:19 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:19 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:21 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:31 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:33 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:33 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:42 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:44 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:44 AM: moving test item Uprun(taken.bat); 
+-->
+<!--CHANGELOG:3/19/2018 10:23:27 AM3/19/2018 10:19:50 AM: refreshing...
+3/19/2018 10:19:50 AM: 3/19/2018 10:19:50 AM
+3/19/2018 10:21:17 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:17 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:18 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:18 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:19 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:19 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:21 AM: moving test item Uprun(RunTestTracking_OnStart.bat); 
+3/19/2018 10:21:31 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:32 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:33 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:33 AM: moving test item Uprun(RunTestTracking_OnLog.bat); 
+3/19/2018 10:21:42 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:43 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:44 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:21:44 AM: moving test item Uprun(taken.bat); 
+3/19/2018 10:22:33 AM: saving...
+3/19/2018 10:22:38 AM: Right Click Edit on item run(RunTestTracking_OnStart.bat); 
+3/19/2018 10:22:57 AM: Right Click Edit on item run(RunTestTracking_OnLog.bat); 
+3/19/2018 10:23:04 AM: Right Click Edit on item run(RunTestTracking_OnEnd.bat); 
+3/19/2018 10:23:15 AM: Right Click Edit on item run(RunTestTracking_OnLog.bat); 
+3/19/2018 10:23:19 AM: Right Click Edit on item run(taken.bat); 
+-->
+<!--CHANGELOG:3/20/2018 6:39:23 PM-->
+<!--CHANGELOG:3/20/2018 6:39:24 PM-->
+<!--CHANGELOG:3/20/2018 6:39:24 PM-->
+<!--CHANGELOG:3/20/2018 6:39:25 PM-->
+<!--CHANGELOG:3/20/2018 6:39:25 PM-->
+<!--CHANGELOG:3/20/2018 6:39:25 PM-->
+<!--CHANGELOG:3/20/2018 6:39:25 PM-->
+<!--CHANGELOG:3/20/2018 6:39:26 PM-->
+<!--CHANGELOG:3/20/2018 6:39:26 PM-->
+<!--CHANGELOG:3/20/2018 6:39:26 PM-->
+<!--CHANGELOG:3/20/2018 6:39:27 PM-->
+<!--CHANGELOG:3/20/2018 6:39:28 PM-->
+<!--CHANGELOG:3/20/2018 6:39:28 PM-->
+<!--CHANGELOG:3/20/2018 6:44:44 PM3/20/2018 6:39:12 PM: refreshing...
+3/20/2018 6:39:12 PM: 3/20/2018 6:39:12 PM
+3/20/2018 6:39:24 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:24 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:24 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:25 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:25 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:25 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:27 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:28 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:28 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:33 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+3/20/2018 6:40:55 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+3/20/2018 6:42:12 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+3/20/2018 6:42:16 PM: Right Click Edit on item run(usb3.bat); 
+-->
+<!--CHANGELOG:3/20/2018 6:44:54 PM3/20/2018 6:39:12 PM: refreshing...
+3/20/2018 6:39:12 PM: 3/20/2018 6:39:12 PM
+3/20/2018 6:39:24 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:24 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:24 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:25 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:25 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:25 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:26 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:27 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:28 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:28 PM: moving test item Uprun(usb3.bat); 
+3/20/2018 6:39:33 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+3/20/2018 6:40:55 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+3/20/2018 6:42:12 PM: Right Click Edit on item run(Re_Enumerate.bat); 
+3/20/2018 6:42:16 PM: Right Click Edit on item run(usb3.bat); 
+3/20/2018 6:44:45 PM: saving...
+-->
+<!--CHANGELOG:3/20/2018 6:45:52 PM-->
+<!--CHANGELOG:3/20/2018 6:45:52 PM-->
+<!--CHANGELOG:3/20/2018 6:45:52 PM-->
+<!--CHANGELOG:3/20/2018 6:45:52 PM-->
+<!--CHANGELOG:3/20/2018 6:45:52 PM-->
+<!--CHANGELOG:3/20/2018 6:45:53 PM-->
+<!--CHANGELOG:3/20/2018 6:45:53 PM-->
+<!--CHANGELOG:3/20/2018 6:45:53 PM-->
+<!--CHANGELOG:3/20/2018 6:45:53 PM-->
+<!--CHANGELOG:3/20/2018 6:45:53 PM-->
+<!--CHANGELOG:3/20/2018 6:45:53 PM-->
+<!--CHANGELOG:3/20/2018 6:45:54 PM-->
+<!--CHANGELOG:3/20/2018 6:45:54 PM-->
+<!--CHANGELOG:3/20/2018 6:45:54 PM-->
+<!--CHANGELOG:3/20/2018 6:45:55 PM-->
+<!--CHANGELOG:3/20/2018 6:45:55 PM-->
+<!--CHANGELOG:3/20/2018 6:46:10 PM3/20/2018 6:45:31 PM: refreshing...
+3/20/2018 6:45:31 PM: 3/20/2018 6:45:31 PM
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:55 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:55 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:46:00 PM: Right Click Edit on item run(usb2.bat); 
+-->
+<!--CHANGELOG:3/20/2018 6:46:11 PM3/20/2018 6:45:31 PM: refreshing...
+3/20/2018 6:45:31 PM: 3/20/2018 6:45:31 PM
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:52 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:53 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:54 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:55 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:45:55 PM: moving test item UpKineticTstEngineCmd(ABORT_ALL_IF_ONE_FAIL)
+3/20/2018 6:46:00 PM: Right Click Edit on item run(usb2.bat); 
+3/20/2018 6:46:10 PM: saving...
+-->
+<!--CHANGELOG:3/21/2018 9:29:27 AM3/21/2018 9:28:50 AM: refreshing...
+3/21/2018 9:28:51 AM: 3/21/2018 9:28:51 AM
+-->
+<!--CHANGELOG:3/21/2018 9:50:05 AM3/21/2018 9:49:10 AM: refreshing...
+3/21/2018 9:49:10 AM: 3/21/2018 9:49:10 AM
+-->
+<!--CHANGELOG:3/21/2018 9:50:09 AM3/21/2018 9:49:10 AM: refreshing...
+3/21/2018 9:49:10 AM: 3/21/2018 9:49:10 AM
+3/21/2018 9:50:06 AM: saving...
+-->

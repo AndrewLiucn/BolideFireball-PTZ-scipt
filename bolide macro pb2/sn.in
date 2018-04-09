@@ -1,0 +1,15 @@
+[inputs]
+Option=wifimac
+MovingDelay=4000
+outputFile=wifimac.out
+byte1=01
+
+Headers=sn
+LowLimit= 
+UpLimit= 
+TargetLimit= 
+LogFile=test.log
+VarResultSummary=
+
+
+

@@ -1,0 +1,18 @@
+[inputs]
+; Get output currct
+; SCPICmd="MEASure:CURRent?"
+Option=Send
+SCPICmd="MEASure:CURRent?"
+COMPort="Auto"
+ShowCFG=0
+;outputFile=c:\UltimateScpiCmd.out
+;logfile=c:\UltimateScpiCmd.log
+
+ExitPause=False
+;
+Headers=Current
+UpLimit=5.45
+LowLimit=-0.1
+TargetLimit=0.12
+
+

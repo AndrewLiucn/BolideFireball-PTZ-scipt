@@ -1,0 +1,35 @@
+[inputs]
+
+Option=BacklashVendor
+;Option=MoveToHome
+ShowCFG=1
+OutputFile=focus.out
+ExitPause=FALSE
+OptionTimeout=100000
+PIBoundary=1
+HomeInitStep=1
+HomeSecondStart=-30
+Motortype=focus
+MovingSteps=1000
+MovingStepsBack=990
+PISamplingCount=3
+PISamplingDelay=5
+Cycles=3
+HomeDelay=150
+Delay=150
+PassCount=0
+DelayAfterBigStepsForward=1500
+DelayAfterBigStepsBackward=1500
+ResultCalculate=median
+;SmithTriggerCount=1
+WriteEEPROM=True
+;
+Headers=Backlash(1),Backlash(2),Backlash(3),Variation, VarResultSummary
+LowLimit=-1,-1,-1,0,-1
+UpLimit=20,17,17,4,17
+TargetLimit=0,0,0,0,0
+;
+;Headers=Backlash(1), VarResultSummary
+;LowLimit=0,0
+;UpLimit=10,10
+;TargetLimit=0,0

@@ -1,0 +1,11 @@
+[Outputs]
+Status=0
+ReturnCode=0
+Message="Pass."
+Headers=backlash
+Values=1
+LowLimit=0.0
+UpLimit=10.0
+TargetLimit=10.0
+LogFile=test.log
+VarResultSummary=
